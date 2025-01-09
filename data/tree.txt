@@ -1,0 +1,1540 @@
+.
+├── 2024-04-SOZPHIL-TEST-7-pdf-urls.txt
+├── 2024-04-SOZPHIL-TEST-7-pdf-urls.warc.cdx
+├── 2024-04-SOZPHIL-TEST-7-pdf-urls.warc.warc.gz
+├── dev.sozphil.uni-leipzig.de
+│   ├── fileadmin
+│   │   └── Fakultät_SozPhil
+│   │       └── Institut_KMW
+│   │           └── Empirie
+│   │               └── Dokumente_Tagung_Gesundheitskommunikation_2020
+│   │                   └── CfP_Gesundheitskommunikation_2020.pdf
+│   └── robots.txt
+├── Makefile
+├── README.md
+├── tree.txt
+├── urls.txt
+├── www.philol.uni-leipzig.de
+│   ├── fileadmin
+│   │   └── Fakultät_Philo
+│   │       └── Germanistik
+│   │           └── Dokumente
+│   │               └── Internationales
+│   │                   └── Modulauswahl_für_internationale_Austauschstudierende_Institut_für_Germanistik_der_Universität_Leipzig.pdf
+│   └── robots.txt
+├── www.sozphil.uni-leipzig.de
+│   ├── fileadmin
+│   │   ├── Fakultät_ErzWiss
+│   │   │   └── 00_Fakultät_allgemein
+│   │   │       └── Studienbüro
+│   │   │           └── Dokumente_Aktuelles_2024
+│   │   │               ├── Einladung_Indien_Vorträge_2024.pdf
+│   │   │               └── Reisend_lernen_für_den_Sachunterricht.pdf
+│   │   ├── Fakultät_GKR
+│   │   │   ├── Indologie-Zentralasienwissenschaft
+│   │   │   │   └── Fotos_fuer_News
+│   │   │   │       └── Filmabende_SoSe24.pdf
+│   │   │   └── Religionswissenschaftliches_Institut
+│   │   │       └── Workshop_CFP_Youth__gender__digital_religion_in_MENA.pdf
+│   │   ├── Fakultät_Philo
+│   │   │   └── Philologische_Fakultät
+│   │   │       └── Gebäudeverantwortung_GWZ
+│   │   │           ├── 2020_02_03_Hausordnung_Universität_Leipzig.pdf
+│   │   │           ├── Formular_zur_Nutzung_von_Räumen_außerhalb_der_Öffnungszeiten_2023_ohne_Formularfelder.pdf
+│   │   │           └── Formular_zur_Nutzung_von_Räumen_außerhalb_der_Öffnungszeiten_2023.pdf
+│   │   ├── Fakultät_SozPhil
+│   │   │   ├── Antrag-auf-Nachteilsausgleich.pdf
+│   │   │   ├── Course_Catalogue_Summer_2021.pdf
+│   │   │   ├── Course-Catalogue-WiSe20-21-UPDATED.pdf
+│   │   │   ├── Course-Catalogue-WiSe21-22.pdf
+│   │   │   ├── Course-Catalogue-WiSe22-23_updated.pdf
+│   │   │   ├── Entwicklungskommunikation
+│   │   │   │   ├── Bilder
+│   │   │   │   │   ├── EC4SC_Broschuere_Final_web.pdf
+│   │   │   │   │   ├── ES4SC_Schaubild_Dt_web.pdf
+│   │   │   │   │   └── ES4SC_Steckbrief.pdf
+│   │   │   │   ├── Block-Communication_for_Social_Change.pdf
+│   │   │   │   ├── Call-for-Abstracts_1506.pdf
+│   │   │   │   └── Finke__Löwenberg_et_al._2019_„Zusammenhalt_in_Gruppen_–_Eine_interdisziplinäre_Studie_von_Gruppenkommunikation“_Diachenko__Finke__Löwenberg__Zeiler_20200514.pdf
+│   │   │   ├── Fakultät
+│   │   │   │   └── Dateien
+│   │   │   │       ├── Dekanat
+│   │   │   │       │   ├── Fakultaetsordnung_Sozphil_2011.pdf
+│   │   │   │       │   ├── Formular_zur_Nutzung_von_Räumen_außerhalb_der_Öffnun_gszeiten_2021.pdf
+│   │   │   │       │   ├── Gleichstellungskonzept_der_UL_01.pdf
+│   │   │   │       │   ├── Merkblatt_Antrag-auf-Forschungssemester_17_12_19.pdf
+│   │   │   │       │   └── raumueberlassungsantrag_d4.pdf
+│   │   │   │       ├── Gremien
+│   │   │   │       │   ├── Fakultätsrat
+│   │   │   │       │   │   └── Tagesordnungen
+│   │   │   │       │   │       ├── 2015
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_13_10_15_Stand_08_10_15.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_14_07_15_Stand_03_07_15.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_15_12_15_Stand_15_12_15.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_17_11_15_Stand_13_11_151.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_19_05_15_EF.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_21_04_15_Stand_20_04_15.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_23_06_15_Stand_18_06_15.pdf
+│   │   │   │       │   │       │   └── Vorläufige-Tagesordnung_Sitzung_FR_27_01_15_EF.pdf
+│   │   │   │       │   │       ├── 2016
+│   │   │   │       │   │       │   ├── Entwurf_Tagesordnung_Wahlsitzung_FR_11_10_16.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_05_07_16_EF.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_12_04_16_Stand_24_03_16.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_20_12_16.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_21_06_16_EF.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_22_11_16.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_24_05_16_EF.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_25_10_16.pdf
+│   │   │   │       │   │       │   └── Vorläufige-Tagesordnung_Sitzung_FR_26_01_16_Stand_19_01_16.pdf
+│   │   │   │       │   │       ├── 2017
+│   │   │   │       │   │       │   ├── Fakultaetsrat_2017_10_24_Tagesordnung.pdf
+│   │   │   │       │   │       │   ├── Tagesordnung_Sitzung_FR_19_12_2017.pdf
+│   │   │   │       │   │       │   ├── Tagesordnung_Sitzung_FR_28_11_2017_neu.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_05_07_17_Stand_05_07_17.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_20_06_17_Stand_20_06_17.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_23_05_17_Stand_17_05_17-3.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_24_01_16.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_25_04_17_Stand_24_04_17.pdf
+│   │   │   │       │   │       │   └── Vorläufige-Tagesordnung_Sitzung_FR_28_02_17.pdf
+│   │   │   │       │   │       ├── 2018
+│   │   │   │       │   │       │   ├── 2018_01_23_Tagesordnung_Sitzung_FR_23_01_2018.pdf
+│   │   │   │       │   │       │   ├── Vorlaeufige-Tagesordnung_Sitzung_FR_20_11_18_Stand_14_11_18.pdf
+│   │   │   │       │   │       │   ├── Vorlaeufige_Tagesordnung_Sitzung_FR_27_02_2018.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_03_07_18_Stand_29_06_18-1.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_19_06_18_Stand_18_06_18.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_22_05_18_Stand_22_05_18.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_23_10_18_Stand_22_10_18.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_24_04_18_Stand_17_04_18.pdf
+│   │   │   │       │   │       │   └── Vorläufige-Tagesordnung_Stand-5_12_18.pdf
+│   │   │   │       │   │       ├── 2019
+│   │   │   │       │   │       │   ├── Entwurf_Tagesordnung_Wahlsitzung_FR_01_10_19.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung-FR_Sitzung_09_07_19_Stand_-26_06_19.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung-FR_Sitzung_14_05_19_Stand_-09_05_19.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung-FR_Sitzung_16_04_19_Stand_-18_03_19-1.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung-FR_Sitzung_18_06_19_Stand_-18_06_19.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_FR_Sitzung_29_01_19_Stand-25_01_19-1.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_17_12_19_EF.pdf
+│   │   │   │       │   │       │   └── Vorläufige-Tagesordnung_Sitzung_FR_29_10_19_EF.pdf
+│   │   │   │       │   │       ├── 2020
+│   │   │   │       │   │       │   ├── Vorläufige_Tagesordnung_Sitzung_FR_07_07_20_Stand_06_07_20.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_12_05_20_Stand_11_05_20.pdf
+│   │   │   │       │   │       │   ├── Vorläufige_Tagesordnung_Sitzung_FR_15_12_20_Stand_11_12_20.pdf
+│   │   │   │       │   │       │   ├── Vorläufige_Tagesordnung_Sitzung_FR_17_11_20_Stand_12_11_20.pdf
+│   │   │   │       │   │       │   ├── Vorläufige_Tagesordnung_Sitzung_FR_20_10_20_Stand_20_10_20.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_21_04_20_EF.pdf
+│   │   │   │       │   │       │   ├── Vorläufige_Tagesordnung_Sitzung_FR_23_06_20_Stand_17_06_20.pdf
+│   │   │   │       │   │       │   ├── Vorläufige-Tagesordnung_Sitzung_FR_28_01_20_EF.pdf
+│   │   │   │       │   │       │   └── Vorläufige_Tagesordnung_Sondersitzung_FR_29_09_20_Stand_23_09_20.pdf
+│   │   │   │       │   │       ├── 2021
+│   │   │   │       │   │       │   ├── 20210427_Vorläufige_Tagesordnung_Sitzung_FR_Stand_22.April_kurz.pdf
+│   │   │   │       │   │       │   ├── 20210525_Vorläufige_Tagesordnung_Sitzung_Stand_21.05.2021_kurz.pdf
+│   │   │   │       │   │       │   ├── 20210622_Protokoll_FR_Sitzung_22._Juni_2021_kurz.pdf
+│   │   │   │       │   │       │   ├── 20210720_Tagesordnung_Sondersitzung.pdf
+│   │   │   │       │   │       │   ├── 20211019_Vorläufige_Tagesordnung_Sitzung_Stand_05.10.2021_kurz.pdf
+│   │   │   │       │   │       │   ├── 20211116_Vorläufige_Tagesordnung_FR-Sitzung_kurz.pdf
+│   │   │   │       │   │       │   ├── 20211214_Vorläufige_Tagesordnung_Sitzung_Fakultätsrat_Stand_13.12_kurz.pdf
+│   │   │   │       │   │       │   └── Vorläufige_Tagesordnung_Sitzung_FR_19_01_21_Stand_18_01_21.pdf
+│   │   │   │       │   │       ├── 2022
+│   │   │   │       │   │       │   ├── 20220125_Vorläufige_Tagesordnung_Sitzung_Stand_20.01_kurz.pdf
+│   │   │   │       │   │       │   ├── 20220215_Vorläufige_Tagesordnung_Stand_10.02_kurz.pdf
+│   │   │   │       │   │       │   ├── 20220419_Vorläufige_Tagesordnung_Stand_14.04_kurz.pdf
+│   │   │   │       │   │       │   ├── 20220524_Vorläufige_Tagesordnung_Stand_12.05_kurz.pdf
+│   │   │   │       │   │       │   ├── 20220621_Vorläufige_Tagesordnung_Stand_17.06_kurz.pdf
+│   │   │   │       │   │       │   ├── 20220705_Vorläufige_Tagesordnung_Stand_29.06_kurz.pdf
+│   │   │   │       │   │       │   ├── 20220920_Vorläufige_Tagesordnung_Stand_14.09_kurz.pdf
+│   │   │   │       │   │       │   ├── 20221025_Vorläufige_Tagesordnung_Stand_14.10_kurz.pdf
+│   │   │   │       │   │       │   ├── 20221122_Vorläufige_Tagesordnung_Stand_18.11_kurz.pdf
+│   │   │   │       │   │       │   └── 20221220_Vorläufige_Tagesordnung_Stand_16.12_kurz.pdf
+│   │   │   │       │   │       └── 2023
+│   │   │   │       │   │           ├── 20230124_Vorläufige_Tagesordnung_Stand_18.01_kurz.pdf
+│   │   │   │       │   │           ├── 20230207_Vorläufige_Tagesordnung_Stand_06.02.2023_kurz.pdf
+│   │   │   │       │   │           ├── 20230404_Vorläufige_Tagesordnung_Stand_27.03_kurz.pdf
+│   │   │   │       │   │           ├── 20230502_Vorläufige_Tagesordnung_Stand_24.04_kurz.pdf
+│   │   │   │       │   │           ├── 20230606_Vorläufige_Tagesordnung_Stand_01.06_kurz.pdf
+│   │   │   │       │   │           └── 20230704_Vorläufige_Tagesordnung_Stand_27.06_kurz.pdf
+│   │   │   │       │   ├── Geschaeftsordnung_Fakultaetsrat_18_05_2010_EF.pdf
+│   │   │   │       │   └── Geschaeftsordnung-PK_Fassung-_27_04_10_Beschluss_PK_EF.pdf
+│   │   │   │       ├── Helpdesk
+│   │   │   │       │   ├── Modulanmeldung_SoSe24.pdf
+│   │   │   │       │   ├── News
+│   │   │   │       │   │   └── SozPhils@work_Flyer_Stand10.11.23.pdf
+│   │   │   │       │   ├── Ratgeber_KMW_April-2020.pdf
+│   │   │   │       │   ├── Ratgeber_KMW_August2022.pdf
+│   │   │   │       │   ├── Ratgeber_Kuwi_09_22.pdf
+│   │   │   │       │   ├── Ratgeber_KuwiJanuar-2019.pdf
+│   │   │   │       │   ├── Ratgeber_PhiloJanuar-2019.pdf
+│   │   │   │       │   ├── Ratgeber_Philosophie_08_2022.pdf
+│   │   │   │       │   ├── Ratgeber_Powi_08_2022_.pdf
+│   │   │   │       │   ├── Ratgeber_Soziologie08_22.pdf
+│   │   │   │       │   └── Studiendokumente
+│   │   │   │       │       ├── KMW
+│   │   │   │       │       │   ├── 06_ba_kmw_Modulbeschreibung_aesa_II__1_.pdf
+│   │   │   │       │       │   ├── 06_ma_global_mass_comm_module.pdf
+│   │   │   │       │       │   ├── 06_ma_global_mass_comm_studienverlaufsplan-1.pdf
+│   │   │   │       │       │   ├── 23_msc_journalismus_Modulbeschreibung.pdf
+│   │   │   │       │       │   ├── AB_13_2023_ma_kmw_aesa_II_po.pdf
+│   │   │   │       │       │   ├── AB_13_2023_ma_kmw_aesa_II_so.pdf
+│   │   │   │       │       │   ├── AB_37_2023_ba_kmw_aesa_II_po.pdf
+│   │   │   │       │       │   ├── AB_37_2023_msc_journalismus_aesa_II_po.pdf
+│   │   │   │       │       │   ├── AB_37_2023_msc_journalismus_aesa_II_so.pdf
+│   │   │   │       │       │   ├── Heft_23_ma_global_mass_po_aesa_I.pdf
+│   │   │   │       │       │   ├── Heft_23_ma_global_mass_so_aesa_I.pdf
+│   │   │   │       │       │   ├── MA_CM_neu_Modulbeschreibung_2021.pdf
+│   │   │   │       │       │   ├── MA_CM_PO22-Anlage.pdf
+│   │   │   │       │       │   ├── MA_CM_SO22-Anlage.pdf
+│   │   │   │       │       │   └── Ma_KMW_Modulbeschreibung_WS2223.pdf
+│   │   │   │       │       ├── Kuwi
+│   │   │   │       │       │   ├── KuWi_BA__Modulbeschreibung.pdf
+│   │   │   │       │       │   ├── KuWi_BA_PO.pdf
+│   │   │   │       │       │   ├── KuWi_BA_So.pdf
+│   │   │   │       │       │   ├── KuWi_MA_Modulbeschreibung.pdf
+│   │   │   │       │       │   ├── MA_Kuwi_PO_2.ÄS_2022.pdf
+│   │   │   │       │       │   └── MA_Kuwi_SO_2.ÄS_2022.pdf
+│   │   │   │       │       ├── Philosophie
+│   │   │   │       │       │   ├── 06_BA_23_Philosophie_Modulbeschreibung.pdf
+│   │   │   │       │       │   ├── 06_BA_23_Philosophie_PO_Anhänge.pdf
+│   │   │   │       │       │   ├── 06_BA_23_Philosophie_SO_Anhänge.pdf
+│   │   │   │       │       │   ├── 06_BA_23_Philosophie_Studienverlaufsplan.pdf
+│   │   │   │       │       │   ├── 06_MA_23_Philosophie_Modulbeschreibung.pdf
+│   │   │   │       │       │   ├── 06_MA_23_Philosophie_PO_Ahänge.pdf
+│   │   │   │       │       │   ├── 06_MA_23_Philosophie_SO_Anhänge.pdf
+│   │   │   │       │       │   ├── 06_MA_23_Philosophie_Studienverlaufsplan.pdf
+│   │   │   │       │       │   ├── 06_St_Ethik_BbS_23_Modulbeschreibung.pdf
+│   │   │   │       │       │   ├── 06_St_Ethik_BbS_23_PO_Anhänge.pdf
+│   │   │   │       │       │   ├── 06_St_Ethik_BbS_23_SO_Anhänge.pdf
+│   │   │   │       │       │   ├── 06_St_Ethik_BbS_23_Studienverlaufsplan.pdf
+│   │   │   │       │       │   ├── 06_St_Ethik_GS_23_Modulbeschreibung.pdf
+│   │   │   │       │       │   ├── 06_St_Ethik_GS_23_PO_Anhänge.pdf
+│   │   │   │       │       │   ├── 06_St_Ethik_GS_23_SO_Anhänge.pdf
+│   │   │   │       │       │   ├── 06_St_Ethik_GS_23_Studienverlaufsplan.pdf
+│   │   │   │       │       │   ├── 06_St_Ethik_GYM_23_Modulbeschreibung.pdf
+│   │   │   │       │       │   ├── 06_St_Ethik_GYM_23_PO_Anhänge.pdf
+│   │   │   │       │       │   ├── 06_St_Ethik_GYM_23_SO_Anhänge.pdf
+│   │   │   │       │       │   ├── 06_St_Ethik_GYM_23_Studienverlaufsplan.pdf
+│   │   │   │       │       │   ├── 06_St_Ethik_OS_23_Modulbeschreibung.pdf
+│   │   │   │       │       │   ├── 06_St_Ethik_OS_23_PO_Anhänge.pdf
+│   │   │   │       │       │   ├── 06_St_Ethik_OS_23_SO_Anhänge.pdf
+│   │   │   │       │       │   ├── 06_St_Ethik_OS_23_Studienverlaufsplan.pdf
+│   │   │   │       │       │   ├── 06_St_Ethik_SP_23_Modulbeschreibung.pdf
+│   │   │   │       │       │   ├── 06_St_Ethik_SP_23_PO_Anhänge.pdf
+│   │   │   │       │       │   ├── 06_St_Ethik_SP_23_SO_Anhänge.pdf
+│   │   │   │       │       │   └── 06_St_Ethik_SP_23_Studienverlaufsplan.pdf
+│   │   │   │       │       ├── Powi
+│   │   │   │       │       │   ├── 06_ma_eiece_Modulbeschreibung_2017-06-01.pdf
+│   │   │   │       │       │   ├── 06_st_GRW_bbs_Modulbeschreibung.pdf
+│   │   │   │       │       │   ├── BA_PoWi_AnhangSO2019.pdf
+│   │   │   │       │       │   ├── BA_Powi_Modulbeschreibung.pdf
+│   │   │   │       │       │   ├── BA_Powi_PO_1.ÄS_2023.pdf
+│   │   │   │       │       │   ├── Heft_65_so_ms_eiece.pdf
+│   │   │   │       │       │   ├── LA_BBS_AnhangPO2022.pdf
+│   │   │   │       │       │   ├── LA_BBS_AnhangSO2022.pdf
+│   │   │   │       │       │   ├── LA_GRW_GYM_PO_2.ÄS_2023.pdf
+│   │   │   │       │       │   ├── LA_GRW_GYM_SO_2.ÄS_2023.pdf
+│   │   │   │       │       │   ├── LA_GRW_OS_PO_2.ÄS_2023.pdf
+│   │   │   │       │       │   ├── LA_GRW_OS_SO_2.ÄS_2023.pdf
+│   │   │   │       │       │   ├── LA_GYM_Modulbeschreibung.pdf
+│   │   │   │       │       │   ├── LA_OS_Modulbeschreibung.pdf
+│   │   │   │       │       │   ├── MA_EIECE_PO_2.ÄS_2017.pdf
+│   │   │   │       │       │   ├── MA_PoWi_AnhangPO2023.pdf
+│   │   │   │       │       │   ├── MA_PoWi_AnhangSO2022.pdf
+│   │   │   │       │       │   └── MA_PoWi_Modulbeschreibung2022.pdf
+│   │   │   │       │       └── Soziologie
+│   │   │   │       │           ├── 06_ma_soziologie_neu_Studienverlaufsplan_21_07_01-1.pdf
+│   │   │   │       │           ├── AB_05_2023_ma_soziologie_po.pdf
+│   │   │   │       │           ├── AB_05_2023_ma_soziologie_so.pdf
+│   │   │   │       │           ├── Soziologie_BA_Modulbeschreibung.pdf
+│   │   │   │       │           ├── Soziologie_BA_PO.pdf
+│   │   │   │       │           ├── Soziologie_BA_SO.pdf
+│   │   │   │       │           └── Soziologie_MA_Modulbeschreibung.pdf
+│   │   │   │       ├── International
+│   │   │   │       │   ├── 2023_Erasmus_Nominierte_Sozphil_SoSe24.pdf
+│   │   │   │       │   ├── Allgemeine_Infos_Wege_ins_Ausland_klein.pdf
+│   │   │   │       │   ├── Folien_Infoveranstaltung_Bewerbung_SozPhil_11.12.23.pdf
+│   │   │   │       │   ├── GESI_Lehrangebot_Incomings_Master_Juli2023.pdf
+│   │   │   │       │   ├── Incomings_SoSe24.pdf
+│   │   │   │       │   ├── KMW_Lehrangebot_Incomings_Bachelor.pdf
+│   │   │   │       │   ├── KMW_Lehrangebot_Incomings_Master_23.pdf
+│   │   │   │       │   ├── KuWi_Lehrangebot_Incomings_Bachelor_23-24.pdf
+│   │   │   │       │   ├── Kuwi_Lehrangebot_Incomings_Master_23.pdf
+│   │   │   │       │   ├── Soziologie_Lehrangebot_Incomings_Bachelor_23.pdf
+│   │   │   │       │   └── Soziologie_Lehrangebot_Incomings_Master_23.pdf
+│   │   │   │       ├── Promotion_Habilitation
+│   │   │   │       │   ├── 20210603_Bibliotheksschein.pdf
+│   │   │   │       │   ├── 202211_Bibliotheksschein.pdf
+│   │   │   │       │   ├── Antrag_Wiederaufnahme_Doktorandenliste_neu2.pdf
+│   │   │   │       │   ├── Aufnahme_Doktorandenliste_Sozphil_aktualisiert_komplett_Futura.pdf
+│   │   │   │       │   ├── Habilordnung_Sozphil_2011.pdf
+│   │   │   │       │   ├── Heft_10_2016_promotionsO_SozPhil_zweite_aesa.pdf
+│   │   │   │       │   ├── Promotionsordnung_Fassung_2_ÄS_01_03_16.pdf
+│   │   │   │       │   ├── Prom_Sozialwiss_1aes_110204.pdf
+│   │   │   │       │   ├── Regelung_PK_Sozwiss_Pflichtexemplarabgabe_Veroeffentlichungspflicht_Dissertationen_Fassung_2016-3.pdf
+│   │   │   │       │   └── Vorlage_Betreuungsvereinbarung.pdf
+│   │   │   │       ├── Prüfungsamt
+│   │   │   │       │   ├── Bille
+│   │   │   │       │   │   ├── Anmeldebogen_MA_ab_WiSe_19-20.pdf
+│   │   │   │       │   │   └── MSc_Journalismus_Antragsformular_Masterarbeit_ausfüllbar.pdf
+│   │   │   │       │   └── Rülicke
+│   │   │   │       │       ├── Anmeldung_BA-Arbeit_Powi.pdf
+│   │   │   │       │       └── Anmeldung_MA-Arbeit_Powi.pdf
+│   │   │   │       ├── Qualitätssicherung
+│   │   │   │       │   ├── 2018_Kulturwissenschaften_BA.pdf
+│   │   │   │       │   ├── 2018_Kulturwissenschaften_MA.pdf
+│   │   │   │       │   ├── 2018_Philosophie_BA.pdf
+│   │   │   │       │   ├── 2018_Philosophie_MA.pdf
+│   │   │   │       │   ├── 2019_Soziologie_BA_Auflagenerfuellung.pdf
+│   │   │   │       │   ├── 2019_Soziologie_MA_Auflagenerfuellung.pdf
+│   │   │   │       │   ├── _2022_QS-Konzept_Überarbeitung_Dez2022.pdf
+│   │   │   │       │   ├── Akkkreditierungsurkunde__MA_GS.pdf
+│   │   │   │       │   ├── Ergebnisprotokoll_Workshop_final.pdf
+│   │   │   │       │   ├── Evaluation
+│   │   │   │       │   │   └── Studierendenbefragungen
+│   │   │   │       │   │       ├── Bachelor
+│   │   │   │       │   │       │   ├── ED_Stbef_BA_SS-2019_Crypt.pdf
+│   │   │   │       │   │       │   └── Frageboegen
+│   │   │   │       │   │       │       └── FB_Bachelor_SS-2019.pdf
+│   │   │   │       │   │       ├── Incomings
+│   │   │   │       │   │       │   ├── ED_Incomings_2019-20_dt_ooA_crypt.pdf
+│   │   │   │       │   │       │   └── Frageboegen
+│   │   │   │       │   │       │       ├── FB_Incomings_2019-20_EvaSys.pdf
+│   │   │   │       │   │       │       └── FB_Incomings_WS-2018-19.pdf
+│   │   │   │       │   │       ├── Master
+│   │   │   │       │   │       │   ├── ED_MA-Studiengangsevaluation_SS-2019_Crypt.pdf
+│   │   │   │       │   │       │   └── Frageboegen
+│   │   │   │       │   │       │       └── FB_Master_SS-2019.pdf
+│   │   │   │       │   │       └── Studienanfaenger
+│   │   │   │       │   │           ├── Befragung_Studienstart_WS2019-20_oPL_crypt.pdf
+│   │   │   │       │   │           ├── Frageboegen
+│   │   │   │       │   │           │   ├── StAnf_WS2019-20_Vorlage_mFi.pdf
+│   │   │   │       │   │           │   └── StAnf_WS2020-21_mit_Filter.pdf
+│   │   │   │       │   │           └── WS-2020-21
+│   │   │   │       │   │               ├── StAnf-2020_BA_KMW_ooN_Cry.pdf
+│   │   │   │       │   │               ├── StAnf-2020_BA_Kulturwissenschaften_ooN_Cry.pdf
+│   │   │   │       │   │               ├── StAnf-2020_BA_Philosophie_ooN_Cry.pdf
+│   │   │   │       │   │               ├── StAnf-2020_BA_Politikwissenschaft_ooN_Cry.pdf
+│   │   │   │       │   │               ├── StAnf-2020_BA_Soziologie_ooN_Cry.pdf
+│   │   │   │       │   │               ├── StAnf-2020_LA_Ethik_ooN_Cry.pdf
+│   │   │   │       │   │               └── StAnf-2020_LA_Gemeinschaftskunde_Cry.pdf
+│   │   │   │       │   ├── Leitbild_der_Fakultät_für_Sozialwissenschaften_und_Philosophie_Endfassung_2015_12_02.pdf
+│   │   │   │       │   ├── QS-Konzept_final.pdf
+│   │   │   │       │   └── Qualitätssiucherungskreislauf.pdf
+│   │   │   │       ├── Studienbüro
+│   │   │   │       │   ├── Deckblatt_Philosophie_neu2.pdf
+│   │   │   │       │   ├── Homepage_-_Empfehlungen_zur_Gestaltung_eines_Exposés_-_Variante_1.pdf
+│   │   │   │       │   └── tmp386764188758088_geschwärzt.pdf
+│   │   │   │       └── Studium
+│   │   │   │           ├── Anerkennungsbescheid_Ausland_u_Hochschulwechsel_2022.pdf
+│   │   │   │           ├── Anerkennungsbescheid_außeruniversitär_2022.pdf
+│   │   │   │           ├── Antragsformular__Ausland_Hochschulwechsel_außeruniversitär_2022.pdf
+│   │   │   │           ├── Bescheid_Ausland_u_Hochschulwechsel_08_2023.pdf
+│   │   │   │           ├── Bescheid__Außeruniversitär_u_Praktika_08_2023.pdf
+│   │   │   │           └── Homepage_-_Empfehlungen_zur_Gestaltung_eines_Exposés_-_Variante_1.pdf
+│   │   │   ├── FBL_Antrag_Bachelorarbeit_Kulturwissenschaften_SoSe_2024.pdf
+│   │   │   ├── FBL_Antrag_Bachelorarbeit_Philosophie_SoSe_2024.pdf
+│   │   │   ├── FBL_Antrag_Bachelorarbeit_SozPhilKFKulturwissenschaften_SoSe_2024.pdf
+│   │   │   ├── FBL_Antrag_Bachelorarbeit_SozPhilKFPhilosophie_SoSe2024.pdf
+│   │   │   ├── FBL_Antrag_Masterarbeit_Kulturwissenschaften_SoSe_2024.pdf
+│   │   │   ├── FBL_Antrag_Masterarbeit_Logik_SoSe_2024.pdf
+│   │   │   ├── FBL_Antrag_Masterarbeit_Philosophie_SoSe_2024.pdf
+│   │   │   ├── FBL_Antrag_Verlängerung_Bearbeitungszeit_AbschlussarbeitVariante2.pdf
+│   │   │   ├── FBL_ZusätzlicheLeistungen.pdf
+│   │   │   ├── GESI
+│   │   │   │   ├── Dokumente
+│   │   │   │   │   ├── Application_form-MA.pdf
+│   │   │   │   │   ├── Application_form-PhD.pdf
+│   │   │   │   │   ├── Course-Catalogue-WiSe23-24.pdf
+│   │   │   │   │   ├── European_Studies
+│   │   │   │   │   │   ├── AB_30_2023_ma_european_studies_po.pdf
+│   │   │   │   │   │   ├── AB_30_2023_ma_european_studies_so.pdf
+│   │   │   │   │   │   └── AJP_ES_Info_2024-1.pdf
+│   │   │   │   │   ├── VVZ_ES_2023.pdf
+│   │   │   │   │   ├── VVZ_ES_SS_2024.pdf
+│   │   │   │   │   ├── VVZ_ES_WS_2022.pdf
+│   │   │   │   │   ├── VVZ_GS_2022.pdf
+│   │   │   │   │   ├── VVZ_GS_2023.pdf
+│   │   │   │   │   └── VVZ_GS_SS_2024_v2.pdf
+│   │   │   │   └── Flyer_Celebration_week_2023.pdf
+│   │   │   ├── GSPSA_SoSe2022-Course_Catalogue.pdf
+│   │   │   ├── GSPSA-Vorlesungsverzeichnis_SoSe2023.pdf
+│   │   │   ├── Infopräsi_WS_2022-23.pdf
+│   │   │   ├── Institut_für_Kulturwissenschaften
+│   │   │   │   └── Dateien
+│   │   │   │       ├── BA_Exemplarischer-Studienverlaufsplan.pdf
+│   │   │   │       ├── BA-KuWi-Struktur.pdf
+│   │   │   │       ├── Fachschaft
+│   │   │   │       │   ├── aktuell_antrag_auf_projektfoerderung_beim_fsr_kuwi.pdf
+│   │   │   │       │   └── aktuell_Satzung_31.03.2021.pdf
+│   │   │   │       ├── Hygienekonzept
+│   │   │   │       │   ├── 210326_Hygienekonzept_GWZ.pdf
+│   │   │   │       │   ├── 220412_Auszug_Hygienekonzept_für_GWZ.pdf
+│   │   │   │       │   └── 220506_Auszug_Hygienekonzept_für_GWZ.pdf
+│   │   │   │       ├── Institutskolloquium
+│   │   │   │       │   └── Institutskolloquium__SoSE24.pdf
+│   │   │   │       ├── leistungsscheinvorlage.pdf
+│   │   │   │       ├── Leitfaden_KuWi.pdf
+│   │   │   │       ├── Merkblatt_Abschlussarbeiten.pdf
+│   │   │   │       ├── Merkblatt_Literaturbericht.pdf
+│   │   │   │       ├── Muster_Deckblatt.pdf
+│   │   │   │       ├── StyleSheet_Geschichte-Philosophie.pdf
+│   │   │   │       ├── StyleSheet_Soziologie.pdf
+│   │   │   │       └── Vorlesungsverzeichnis
+│   │   │   │           ├── KVV2024_01_04.pdf
+│   │   │   │           ├── KVV2024_20_01.pdf
+│   │   │   │           ├── KVV-SoSe-2016.pdf
+│   │   │   │           ├── KVV-SoSe-2017.pdf
+│   │   │   │           ├── KVV-SoSe-2018.pdf
+│   │   │   │           ├── KVV-SoSe-2019.pdf
+│   │   │   │           ├── KVV-SoSe-2020.pdf
+│   │   │   │           ├── KVV-SoSe-2021.pdf
+│   │   │   │           ├── KVV-SoSe-2022.pdf
+│   │   │   │           ├── KVV-SoSe-2023_3.pdf
+│   │   │   │           ├── KVV-WS-2016-17.pdf
+│   │   │   │           ├── KVV-WS-2017-18.pdf
+│   │   │   │           ├── KVV-WS-2018-19.pdf
+│   │   │   │           ├── KVV-WS-2019-20.pdf
+│   │   │   │           ├── KVV-WS-2020-21.pdf
+│   │   │   │           ├── KVV-WS-2021-22.pdf
+│   │   │   │           ├── KVV-WS_2022-23.pdf
+│   │   │   │           └── KVV-WS_2023-24.pdf
+│   │   │   ├── Institut_für_Philosophie
+│   │   │   │   ├── Bilder
+│   │   │   │   │   ├── FAGI
+│   │   │   │   │   │   ├── Gastwissenschaftler
+│   │   │   │   │   │   │   ├── 2017-GuestProf-WiSe201718-Kimhi.pdf
+│   │   │   │   │   │   │   ├── 2018_Diamond.pdf
+│   │   │   │   │   │   │   ├── 2018_OBrien.pdf
+│   │   │   │   │   │   │   ├── 2018_Stone.pdf
+│   │   │   │   │   │   │   ├── 2019_Poster_Martin.pdf
+│   │   │   │   │   │   │   ├── 2020_Poster_Narboux.pdf
+│   │   │   │   │   │   │   ├── 2021_Poster_Gustafsson.pdf
+│   │   │   │   │   │   │   ├── 2022-Guest-Thompson.pdf
+│   │   │   │   │   │   │   ├── 2022_Poster_Kitcher.pdf
+│   │   │   │   │   │   │   └── 2023_Jian_Ma_CV_01.pdf
+│   │   │   │   │   │   ├── Publikationen
+│   │   │   │   │   │   │   ├── Gilad_Nir-Toward_a_Resolute_Reading_of_Being_and_Time_12430-2.pdf
+│   │   │   │   │   │   │   ├── Gilad_Nir-Wittgensteins-Reductio.pdf
+│   │   │   │   │   │   │   ├── Held_Moores-Paradox-und-Logik-erstpersonlaer-Aussagen.pdf
+│   │   │   │   │   │   │   ├── HeldWittgenstein-1.pdf
+│   │   │   │   │   │   │   ├── James_Conant-Einige_sokratische_Merkmale.pdf
+│   │   │   │   │   │   │   └── Wittgensteins-Kritik-am-additiven-Verständnis-des-sprachlichen-Zeichens-Deutsche-Zeitschrift-für-Philosophie-Vol.-69-Issue-1-BZ-442732192.pdf
+│   │   │   │   │   │   ├── Satzung-FAGI.pdf
+│   │   │   │   │   │   └── Workshops
+│   │   │   │   │   │       ├── 2012
+│   │   │   │   │   │       │   ├── 2012-12_2-WS-Human_animal-Flyer.pdf
+│   │   │   │   │   │       │   └── Programmflyer-FAGI-12_2012.pdf
+│   │   │   │   │   │       ├── 2013
+│   │   │   │   │   │       │   ├── 2013-04-PracticalKnowledge-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2013-05-Author_meets_Critique_Flyer.pdf
+│   │   │   │   │   │       │   ├── 2013-07-Kants_Doctrine_of_Right-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2013-08-Wittgenstein-Flyer.pdf
+│   │   │   │   │   │       │   └── 2013-10-Second_Person-Flyer.pdf
+│   │   │   │   │   │       ├── 2014
+│   │   │   │   │   │       │   ├── 2014-05-WS-Agency_and_Alienation_WS-Poster.pdf
+│   │   │   │   │   │       │   ├── 2014-06-WS-Habermas_Tomasello-Poster.pdf
+│   │   │   │   │   │       │   ├── 2014-07_2-WS-Franks_Gardner-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2014-07-WS-Being_and_Goodness-Flyer.pdf
+│   │   │   │   │   │       │   └── 2014-09-WS-Animal_Human_Self-Flyer.pdf
+│   │   │   │   │   │       ├── 2015
+│   │   │   │   │   │       │   └── 2015-07-WS-PracticalKnowledge-Flyer.pdf
+│   │   │   │   │   │       ├── 2016
+│   │   │   │   │   │       │   ├── 2016-06_2-WS_Emotions-Poster.pdf
+│   │   │   │   │   │       │   ├── 2016-06_3-WS-KosmanLecture-Poster.pdf
+│   │   │   │   │   │       │   ├── 2016-06-WS-Brandom-GraduateSummerCourse-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2016-07_2-WS-Action_Ability-Flyer.pdf
+│   │   │   │   │   │       │   └── 2016-07-WS-Activiy_of_Being-Flyer.pdf
+│   │   │   │   │   │       ├── 2017
+│   │   │   │   │   │       │   ├── 2017-06-WS_ChMenke-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2017-06-WS_UCL-Poster.pdf
+│   │   │   │   │   │       │   ├── 2017-07-WS_Logic_and_Life-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2017-12-WS_Stroud-Poster.pdf
+│   │   │   │   │   │       │   └── 2017-WS_Goethe_and_Philosophy-TelAviv-Flyer.pdf
+│   │   │   │   │   │       ├── 2018
+│   │   │   │   │   │       │   ├── 2018-02-WS_Kern_Chicago-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2018-06_0-WS-Brandom-GraduateSummerCourse-Poster.pdf
+│   │   │   │   │   │       │   ├── 2018-06_1-WS_Graduate-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2018-06_2-WS_KantsReligion-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2018-06_3-WS-Patras-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2018-07_1-WS_HumanLife-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2018-07_2-WS_AgencyandTime-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2018-10_1-WS_Roedl_Chicago-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2018-10_2-WS_Logic-and-Ethics-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2018-11_0-WS_Volk-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2018-11_1-WS_Aesthetische-FLYER.pdf
+│   │   │   │   │   │       │   ├── 2018-11_2-WS_UCL2-London-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2018-12-WS_TelAviv-Flyer.pdf
+│   │   │   │   │   │       │   └── 2018-7_0-WS_PhilORight-FYLER.pdf
+│   │   │   │   │   │       ├── 2019
+│   │   │   │   │   │       │   ├── 2019-11-WS-WS_Cavell-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2019-12-WS_Critique-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2019-1-WS_Spontaneity-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2019-2-WS-Menker_Roedl-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2019-3_1-WS_TAB-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2019-3_2-WS_ThoughtJudgment-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2019-6_1-WS_Bordeaux-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2019-6_2_1-WS-Patras-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2019-6_2-WS_Boyle-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2019-6_3-WS_Peacocke-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2019-6_4-WS3-Goettingen-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2019-7_1-WS-Limiting-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2019-7_2-WS_AnalyticKantianism-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2019-7_3-WS_TwoWay-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2019-7_4-WS_WittLeg-Flyer.pdf
+│   │   │   │   │   │       │   └── 2019-9-WS_Translation-Flyer.pdf
+│   │   │   │   │   │       ├── 2020
+│   │   │   │   │   │       │   ├── 2020-2-WS_HaddockUtrecht-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2020-7-WS_Kremer-Poster.pdf
+│   │   │   │   │   │       │   └── 2020-WS_StudKoll2020.pdf
+│   │   │   │   │   │       ├── 2021
+│   │   │   │   │   │       │   ├── 2021-10_1-WS_PSW-Orientierung_durch_Kritik-Poster.pdf
+│   │   │   │   │   │       │   ├── 2021-10_2-WS_UeberforderungForm-Flyer.pdf
+│   │   │   │   │   │       │   └── 2021-11-WS_UCL4-Flyer.pdf
+│   │   │   │   │   │       ├── 2022
+│   │   │   │   │   │       │   ├── 2022-05_01-WS_Lubljana-Leipzig-Poster.pdf
+│   │   │   │   │   │       │   ├── 2022-06_02-WS-Inference-Poster.pdf
+│   │   │   │   │   │       │   ├── 2022-07_03-WS_Boyle-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2022-07_04-WS-First-Padua_Leipzig-Arqus-Flyer.pdf
+│   │   │   │   │   │       │   ├── 2022-07_05-WS-KnowHowProgram.pdf
+│   │   │   │   │   │       │   ├── 2022-07_WS-KnowHowProgram.pdf
+│   │   │   │   │   │       │   ├── 2022-10-Worskhop-Warwick_Philosophy.pdf
+│   │   │   │   │   │       │   └── 2022-12_06-Flyer_Self-Love_and_Evil.pdf
+│   │   │   │   │   │       ├── 2023
+│   │   │   │   │   │       │   ├── 2023-10-Workshop_Warwick-Geneva-Leipzig_InterdepartmentalCollaboration.pdf
+│   │   │   │   │   │       │   ├── 2023-2nd-Leipzig-Padua-ARQUS-Meeting-Poster-June.pdf
+│   │   │   │   │   │       │   ├── 2023-ActionNetwork-Program.pdf
+│   │   │   │   │   │       │   ├── 2023-Workshop-Poster_GWZ-072023.pdf
+│   │   │   │   │   │       │   └── SoSe2023-Workshop-Flyer-YoungResearcher.pdf
+│   │   │   │   │   │       └── 2024
+│   │   │   │   │   │           ├── SoSe2024-06-Workshop-Gut_Boese-Flyer.pdf
+│   │   │   │   │   │           └── SoSe2024-06-Workshop-Gut_Boese-Poster.pdf
+│   │   │   │   │   └── Studium
+│   │   │   │   │       └── HandreichungKritik.pdf
+│   │   │   │   ├── Dokumente
+│   │   │   │   │   ├── Allgemeine_Dokumente
+│   │   │   │   │   │   └── Genderleitfaden_StandNov2020.pdf
+│   │   │   │   │   ├── Andrea_Kern
+│   │   │   │   │   │   ├── CVAndreaKern2021.pdf
+│   │   │   │   │   │   ├── CVAndreaKern2023.pdf
+│   │   │   │   │   │   ├── Kern-WS_Tagungen-99-07.pdf
+│   │   │   │   │   │   ├── Kern-WS_Tagungen-seit2010.pdf
+│   │   │   │   │   │   └── Kern-WS_Tagungen_seit2010.pdf
+│   │   │   │   │   ├── Andreas_Gelhard
+│   │   │   │   │   │   └── Publikationsliste-Gelhard.pdf
+│   │   │   │   │   ├── Beatrice_Kobow
+│   │   │   │   │   │   ├── CURRICULUM_VITAE_KOBOW_2020.pdf
+│   │   │   │   │   │   ├── PR012020_final_Proof-BK.pdf
+│   │   │   │   │   │   └── PUBLICATIONS_KOBOW_2020_01.pdf
+│   │   │   │   │   ├── Formulare
+│   │   │   │   │   │   ├── 220303_StudSek_Anrechnungsbescheid_barrierefei.pdf
+│   │   │   │   │   │   ├── Antrag-auf-Nachteilsausgleich.pdf
+│   │   │   │   │   │   ├── Antragsformular-_Ausland_Hochschulwechsel_außeruniversitär.pdf
+│   │   │   │   │   │   ├── Bescheid_Ausland_u_Hochschulwechsel.pdf
+│   │   │   │   │   │   ├── Bescheinigung_Studienverlauf_BA.pdf
+│   │   │   │   │   │   ├── FblStreichungZusatzModul.pdf
+│   │   │   │   │   │   ├── LNW_BA-MA_doppelt.pdf
+│   │   │   │   │   │   ├── SQ-Beleg-Auslandsstudium.pdf
+│   │   │   │   │   │   └── SQ-Beleg-Praktikum.pdf
+│   │   │   │   │   ├── Georg_Meggle
+│   │   │   │   │   │   ├── 2022-Programm_AUC-GM.pdf
+│   │   │   │   │   │   ├── GM-Publikationsverzeichnis-2023.pdf
+│   │   │   │   │   │   └── Publikationen_GM
+│   │   │   │   │   │       ├── GM-Files-AUC-Lecture-122016.pdf
+│   │   │   │   │   │       ├── GM-LETTER-OF-INTENT.pdf
+│   │   │   │   │   │       ├── GM-Tagungen1990-2004.pdf
+│   │   │   │   │   │       ├── GM-zik_ar.pdf
+│   │   │   │   │   │       ├── GM-zik.pdf
+│   │   │   │   │   │       └── Wer_ist_AS__HU.pdf
+│   │   │   │   │   ├── Haddock_Adrian
+│   │   │   │   │   │   └── Adrian_Haddock_CURRICULUM_VITAE.pdf
+│   │   │   │   │   ├── Modulübersicht
+│   │   │   │   │   │   ├── Semesterplanung_SoSe23-public.pdf
+│   │   │   │   │   │   ├── Semesterplanung_SoSe_24-public.pdf
+│   │   │   │   │   │   ├── Semesterplanung_WiSe22_23_Philosophie-public.pdf
+│   │   │   │   │   │   └── Semesterplanung_WiSe_2324-public.pdf
+│   │   │   │   │   ├── Prüfungsleistungen
+│   │   │   │   │   │   ├── 2024-Vorbereitung_Staatsexamenspruefungen.pdf
+│   │   │   │   │   │   ├── Anforderungen_PL_FD_II_Ethik_WS_21.22.pdf
+│   │   │   │   │   │   ├── SoSe2024-Pruefungsleistungen-Module-IfP.pdf
+│   │   │   │   │   │   └── WiSe202223-Pruefungsleistungen-IfP.pdf
+│   │   │   │   │   ├── Sebastian_Rödl
+│   │   │   │   │   │   └── CV_SebastianRoedl_Januar2024.pdf
+│   │   │   │   │   ├── Studienangebot
+│   │   │   │   │   │   ├── WF_30LP_Ethik.pdf
+│   │   │   │   │   │   ├── WF_30LP_Philosophie.pdf
+│   │   │   │   │   │   └── WF_60LP_Philosophie.pdf
+│   │   │   │   │   ├── Tagungen
+│   │   │   │   │   │   └── DFG-Network.pdf
+│   │   │   │   │   ├── Vorlesungsverzeichnisse
+│   │   │   │   │   │   ├── Kommentiertes-Vorlesungsverzeichnis_SoSe2019.pdf
+│   │   │   │   │   │   ├── Kommentiertes-Vorlesungsverzeichnis_SoSe20.pdf
+│   │   │   │   │   │   ├── Kommentiertes_Vorlesungsverzeichnis_SoSe21_02.pdf
+│   │   │   │   │   │   ├── Kommentiertes_Vorlesungsverzeichnis_SoSe22.pdf
+│   │   │   │   │   │   ├── Kommentiertes_Vorlesungsverzeichnis_SoSe23.pdf
+│   │   │   │   │   │   ├── Kommentiertes_Vorlesungsverzeichnis_SoSe24.pdf
+│   │   │   │   │   │   ├── Kommentiertes-Vorlesungsverzeichnis_WiSe-1920.pdf
+│   │   │   │   │   │   ├── Kommentiertes-Vorlesungsverzeichnis_WiSe201819.pdf
+│   │   │   │   │   │   ├── Kommentiertes_Vorlesungsverzeichnis_WiSe2021.pdf
+│   │   │   │   │   │   ├── Kommentiertes_Vorlesungsverzeichnis_WiSe_2122_.pdf
+│   │   │   │   │   │   ├── Kommentiertes_Vorlesungsverzeichnis_WiSe_2223.pdf
+│   │   │   │   │   │   ├── kVVZ_WiSe_2324.pdf
+│   │   │   │   │   │   └── WiSe2122-HilfenHelpdesk_Einschreibung_Fristen_AlmaWeb.pdf
+│   │   │   │   │   └── Wissenschaftliche_Arbeiten
+│   │   │   │   │       ├── Leitfaden_wissArbeiten_IfP.pdf
+│   │   │   │   │       ├── Musterseiten_Abschlussarbeiten_Stand_April21.pdf
+│   │   │   │   │       └── Musterseiten_Haus-_Projektarbeiten_Stand_April21.pdf
+│   │   │   │   └── Workshops___Plakate
+│   │   │   │       ├── SoSe2024-Callforpapers-21062024.pdf
+│   │   │   │       ├── SoSe2024_EM_110424.pdf
+│   │   │   │       ├── SoSe2024_HH_180424.pdf
+│   │   │   │       └── SoSe2024-Marx-Haddock.pdf
+│   │   │   ├── Institut_für_Politikwissenschaften
+│   │   │   │   ├── Allgemein
+│   │   │   │   │   ├── 231006_Prüferliste_WiSe2324_.pdf
+│   │   │   │   │   ├── 231107_Abschlussarbeiten_Betreuungsliste_WiSe23_24.pdf
+│   │   │   │   │   ├── Alumni
+│   │   │   │   │   │   ├── baden.pdf
+│   │   │   │   │   │   ├── forbrig.pdf
+│   │   │   │   │   │   ├── franke.pdf
+│   │   │   │   │   │   ├── geiszler.pdf
+│   │   │   │   │   │   ├── georgi.pdf
+│   │   │   │   │   │   ├── grossmann.pdf
+│   │   │   │   │   │   ├── jauch.pdf
+│   │   │   │   │   │   ├── karawanskij.pdf
+│   │   │   │   │   │   ├── kuball.pdf
+│   │   │   │   │   │   ├── panter.pdf
+│   │   │   │   │   │   ├── preuss.pdf
+│   │   │   │   │   │   ├── rösch.pdf
+│   │   │   │   │   │   ├── schulz.pdf
+│   │   │   │   │   │   └── volger.pdf
+│   │   │   │   │   ├── außerschulische-Lernorte-im-GRW-Unterricht_Buchmann.pdf
+│   │   │   │   │   ├── Checkliste_für_Austauschstudierende_Politikwissenschaft.pdf
+│   │   │   │   │   ├── Erasmus__Austauschplätze_141123.pdf
+│   │   │   │   │   ├── FAQ_exmatrikulation.pdf
+│   │   │   │   │   ├── Geschichte
+│   │   │   │   │   │   ├── 01_Zeitschrift_fuer_Politik.pdf
+│   │   │   │   │   │   ├── 03_Die_Politikwissenschaft.pdf
+│   │   │   │   │   │   ├── 04_Politische_Umbrueche.pdf
+│   │   │   │   │   │   ├── 05_Das_Institut_fuer_politische_Auslandskunde.pdf
+│   │   │   │   │   │   ├── 06_Richard_Schmidt.pdf
+│   │   │   │   │   │   └── 07_Leipzig_Als_Wiege_derModerenen_Politikwissenschaft.pdf
+│   │   │   │   │   ├── Grafik-Studienverläufe-EIECE-2021.pdf
+│   │   │   │   │   ├── KVVZ
+│   │   │   │   │   │   ├── KVVZ_2021-22_8_.pdf
+│   │   │   │   │   │   ├── KVVZ_PoWi_SoSe_24-7.pdf
+│   │   │   │   │   │   ├── KVVZ_PoWi_WiSe_23_24-8.pdf
+│   │   │   │   │   │   ├── KVVZ_SoSe2021_5.1.pdf
+│   │   │   │   │   │   ├── KVVZ__SoSe2022_5.pdf
+│   │   │   │   │   │   ├── SoSe_23_PoWi_KVVZ_7.pdf
+│   │   │   │   │   │   ├── VVZ_WS20-21_9.1.pdf
+│   │   │   │   │   │   └── WS_22_23_PoWi_KVVZ_5_1.pdf
+│   │   │   │   │   ├── LfW_Politik_in_Europa
+│   │   │   │   │   │   └── Streit-Jacob-2017-Protestverhalten-von-Studierenden.pdf
+│   │   │   │   │   ├── Praktika
+│   │   │   │   │   │   ├── 2023_12_Ausschreibung_Praktikum_InnoNation.pdf
+│   │   │   │   │   │   ├── 2023_Stellenausschreibung_Praktikum_MRS.pdf
+│   │   │   │   │   │   ├── 2024_Stellenausschreibung_Praktikum_MRS.pdf
+│   │   │   │   │   │   ├── Praktikum_bei_der_AHK_Nicaragua__1_-1.pdf
+│   │   │   │   │   │   ├── Praktikumsausschreibung_Bildungsarbeit_BuWa.pdf
+│   │   │   │   │   │   ├── Praktikumsausschreibung_bipar.pdf
+│   │   │   │   │   │   └── Unknown.pdf
+│   │   │   │   │   ├── Studienverlauf_BA_Powi.pdf
+│   │   │   │   │   ├── Studienverlauf_LA_GRW_BBS.pdf
+│   │   │   │   │   ├── Studienverlauf_LA_GRW_GYM.pdf
+│   │   │   │   │   ├── Studienverlauf_LA_GRW_OS.pdf
+│   │   │   │   │   └── Studienverlauf_MA_Powi.pdf
+│   │   │   │   ├── Fachdidaktik_Gemeinschaftskunde
+│   │   │   │   │   ├── CV_Dennis_Hauk.pdf
+│   │   │   │   │   ├── Publikationsliste.pdf
+│   │   │   │   │   └── Vortragsliste.pdf
+│   │   │   │   ├── Internationale_Beziehungen
+│   │   │   │   │   ├── Call_Konferenz_Kolumbien.pdf
+│   │   │   │   │   ├── Guidelines_Masters_Thesis_IR.pdf
+│   │   │   │   │   ├── Internationalization_EAFIT_Brochure.pdf
+│   │   │   │   │   ├── Leitfaden_BachelorArbeit_IB.pdf
+│   │   │   │   │   ├── Study_Abroad_Brochure_EAFIT_B_W.pdf
+│   │   │   │   │   └── Version_corta_ADLAF_Septiembre.pdf
+│   │   │   │   ├── Politische_Bildung
+│   │   │   │   │   └── 16009.pdf
+│   │   │   │   ├── Politisches_System_Deutschlands
+│   │   │   │   │   └── Dateien_und_Dokumente
+│   │   │   │   │       ├── Arbeitsbereich_System_Informationen_zur_Forschung.pdf
+│   │   │   │   │       ├── Arbeitsbereich_System_Öffentliche_Veranstaltungen.pdf
+│   │   │   │   │       └── Arbeitsbereich_System_Regelmäßige_Lehrveranstaltungen.pdf
+│   │   │   │   └── Politische_Theorie
+│   │   │   │       ├── 1_Präsentation_Finalite_Conceptions.pdf
+│   │   │   │       ├── 1_programme_scenario_workshop.pdf
+│   │   │   │       ├── 2_Präsentation_legitimation_differentiation.pdf
+│   │   │   │       ├── 4_Präsentation_Szenarien_online.pdf
+│   │   │   │       ├── 4_programme_online_presentation_of_scenarios.pdf
+│   │   │   │       ├── Programme_EU_Finalité_Conceptions_After_Brexit.pdf
+│   │   │   │       ├── Programm_-_United_in_diversity_-_The_legitimacy_of_a_differentiated_European_Union.pdf
+│   │   │   │       ├── summer_school_programme_060923.pdf
+│   │   │   │       └── Unknown.pdf
+│   │   │   ├── Institut_für_Soziologie
+│   │   │   │   ├── Dokumente
+│   │   │   │   │   ├── AB_05_2023_ma_soziologie_po.pdf
+│   │   │   │   │   ├── AB_05_2023_ma_soziologie_so.pdf
+│   │   │   │   │   ├── ba_soziologie_PO_Anlage_PO_2013_2019_3_ÄS_2022.pdf
+│   │   │   │   │   ├── ba_soziologie_SO_Anlage_SO_2013_2019_3_ÄS_2022.pdf
+│   │   │   │   │   ├── Bereich_Institutionen_und_Wandel_Prof_Lengfeld
+│   │   │   │   │   │   └── Regelungen_Anfertigung_MA_BA-Arbeiten_Stand_WS23_24.pdf
+│   │   │   │   │   ├── Heft_16_ba_soziologie_po_2018.pdf
+│   │   │   │   │   ├── INAS_2024_-_Leipzig_travelguide.pdf
+│   │   │   │   │   ├── ma_soziologie_PO_Anlage_ab_05_2023.pdf
+│   │   │   │   │   ├── ma_soziologie_SO_Anlage_ab_05_2023.pdf
+│   │   │   │   │   ├── Opp_CV_Deutsch_Januar_2023.pdf
+│   │   │   │   │   ├── Prüfungsausschuss
+│   │   │   │   │   │   ├── Prüfungsausschuss_1_Aktuelle_Informationen_1_Bekanntmachungen
+│   │   │   │   │   │   │   ├── bekanntmachung_pvl_homepage.pdf
+│   │   │   │   │   │   │   ├── bewerbung_höheres_fs.pdf
+│   │   │   │   │   │   │   ├── heft_55_manteläsa_sozphil.pdf
+│   │   │   │   │   │   │   ├── hinweise_efp.pdf
+│   │   │   │   │   │   │   ├── hinweis_lehramt.pdf
+│   │   │   │   │   │   │   └── satzung_sichere_wiss_praxis_2015.pdf
+│   │   │   │   │   │   ├── Prüfungsausschuss_1_Aktuelle_Informationen_2_BA_Soziologie
+│   │   │   │   │   │   │   ├── 06_ba_soziologie_14_02_2022_modulbeschreibung.pdf
+│   │   │   │   │   │   │   ├── 06_ba_soziologie_14_02_2022_Studienverlaufsplan.pdf
+│   │   │   │   │   │   │   ├── 06_ma_soziologie_neu_Modulbeschreibung_WV.pdf
+│   │   │   │   │   │   │   ├── 06_ma_soziologie_neu_Studienverlaufsplan_21_07_01.pdf
+│   │   │   │   │   │   │   ├── 06_wahlmodule_sozphil_module_25-01-2018__1_.pdf
+│   │   │   │   │   │   │   ├── die_bachelorarbeit_2022-23.pdf
+│   │   │   │   │   │   │   ├── heft_16_ba_soziologie_po_14-05-2019.pdf
+│   │   │   │   │   │   │   ├── heft_16_ba_soziologie_so_14-05-2019.pdf
+│   │   │   │   │   │   │   └── heft_46_30_ordnung_fakuebergreifend_sq__1_.pdf
+│   │   │   │   │   │   ├── Prüfungsausschuss_1_Aktuelle_Informationen_2_MA_Soziologie
+│   │   │   │   │   │   │   ├── 06_ma_soziologie_neu_modulbeschreibung_wv.pdf
+│   │   │   │   │   │   │   ├── ma_sozio_efo_090928__2_.pdf
+│   │   │   │   │   │   │   ├── masterarbeit_prüfungsrechtliche_fragen_und_organisatorisches_26-11-2020.pdf
+│   │   │   │   │   │   │   ├── master_soziologie_prüfungsordnung_februar2023.pdf
+│   │   │   │   │   │   │   └── master_soziologie_studienordnung_stand_februar2023.pdf
+│   │   │   │   │   │   ├── Prüfungsausschuss_2_Formulare
+│   │   │   │   │   │   │   ├── anrechnungsformular_abws1920.pdf
+│   │   │   │   │   │   │   ├── praktikum_formulara_neu.pdf
+│   │   │   │   │   │   │   └── praktikum_formularb_neu.pdf
+│   │   │   │   │   │   └── Prüfungsausschuss_3_Info_AlmaWeb
+│   │   │   │   │   │       └── almaweb_studierende-anleitung-de.pdf
+│   │   │   │   │   ├── Prüfungsstelle
+│   │   │   │   │   │   ├── Prüfungsstelle_1_Aushänge
+│   │   │   │   │   │   │   ├── Aushang_Prüfungen_ws23-24.pdf
+│   │   │   │   │   │   │   ├── Aushang_Prüfungen_ws23-24_.pdf
+│   │   │   │   │   │   │   ├── BA-Wiederholungsprüfungstemine_WS_2023_24.pdf
+│   │   │   │   │   │   │   ├── Formular_Antrag-Wiederholungsprüfung.pdf
+│   │   │   │   │   │   │   ├── Master-Wiederholungsprüfungstermine_WS_2023_24.pdf
+│   │   │   │   │   │   │   ├── Prüferliste_Soziologie_WS_2023_24_Stand_23-11-2023-genehmigt.pdf
+│   │   │   │   │   │   │   └── Prüfungsleistungen_-_WS_2023_24_Stand_28-11-2023-.pdf
+│   │   │   │   │   │   ├── Prüfungsstelle_2_Wichtige_Informationen_Dateien_der_Prüfungsstelle
+│   │   │   │   │   │   │   ├── anmeldung_bachelorarbeit_formular_ergänzung_betreuerbogen_.pdf
+│   │   │   │   │   │   │   ├── anmeldung_masterarbeit_ergänzung_betreuerbogen.pdf
+│   │   │   │   │   │   │   ├── Bekanntmachung_Prüfungsunfähigkeit_01-04-2023.pdf
+│   │   │   │   │   │   │   ├── Formular_Anmeldung_Prüfungsvorleistung_aktualisiert.pdf
+│   │   │   │   │   │   │   ├── Formular_Antrag-Prüfungseinsicht_aktualisiert.pdf
+│   │   │   │   │   │   │   ├── Formular_Nachweis_Prüfungsvorleistung_aktualisiert_2023.pdf
+│   │   │   │   │   │   │   ├── Formular_Prüfungsunfähigkeit_aktualisiert_2_2023.pdf
+│   │   │   │   │   │   │   ├── hinweise_ba-arbeit_anfertigung.pdf
+│   │   │   │   │   │   │   ├── hinweise_Überschreitung_regelstudienzeit_01-04-2022_unterschrift.pdf
+│   │   │   │   │   │   │   ├── hinweise_zur_anmeldung_der_ba-arbeit_stand_01-09-2022.pdf
+│   │   │   │   │   │   │   ├── hinweise_zur_anmeldung_der_masterarbeit_01-09-2022.pdf
+│   │   │   │   │   │   │   └── hinweis_zur_anfertigung_der_masterarbeit.pdf
+│   │   │   │   │   │   └── Prüfungsstelle_3_Archiv_Abschlussarbeiten
+│   │   │   │   │   │       ├── Archiv_Magister-und_Diplomarbeiten_aktualisiert.pdf
+│   │   │   │   │   │       └── Archiv_Masterarbeiten_Stand_04042024.pdf
+│   │   │   │   │   ├── Studienfachberatung
+│   │   │   │   │   │   ├── ablauf_aufbauplan_ma_ab_ws17-18.pdf
+│   │   │   │   │   │   ├── Antidiskriminierung_UL_FSR_Soziologie.pdf
+│   │   │   │   │   │   ├── faqs_bachelorarbeit.pdf
+│   │   │   │   │   │   ├── Formular_zur_Anerkennung_von_Studien-_und_Prüfungsleisungen__anrechnungsformular_abws1920_.pdf
+│   │   │   │   │   │   ├── häufig_gestellte_fragen.pdf
+│   │   │   │   │   │   ├── hinweise_moduleinschreibung_ifs.pdf
+│   │   │   │   │   │   ├── hinweise_und_tipps_zum_digitalen_studienstart_ifs.pdf
+│   │   │   │   │   │   ├── hinweise_zur_eignungsfeststellungsprüfung_für_den_masterstudiengang.pdf
+│   │   │   │   │   │   ├── hinweis_lehramt.pdf
+│   │   │   │   │   │   ├── ratgeber_wahlfach_abws19-20.pdf
+│   │   │   │   │   │   ├── soziologie_06-psy-22404_psychologie.pdf
+│   │   │   │   │   │   ├── staatsexamen_höheres_lehramt_an_gymnasien.pdf
+│   │   │   │   │   │   ├── studienablaufplan_11-03-2020.pdf
+│   │   │   │   │   │   ├── studienaufbau_11-03-2020.pdf
+│   │   │   │   │   │   ├── studieren_mit_beeinträchtigung.pdf
+│   │   │   │   │   │   └── wf_30lp_soziologie.pdf
+│   │   │   │   │   ├── Studieren_im_Ausland
+│   │   │   │   │   │   ├── ERASMUS__Studium_-_Wegzehrung.pdf
+│   │   │   │   │   │   ├── frequently_asked_questions_faq_bewerbungen_januar_2021.pdf
+│   │   │   │   │   │   └── kooperationen_des_instituts_für_soziologie_ws_2019.pdf
+│   │   │   │   │   ├── Vorlesungsverzeichnis
+│   │   │   │   │   │   ├── Vorlesungsverzeichnis_Soziologie_SoSe_2017.pdf
+│   │   │   │   │   │   ├── Vorlesungsverzeichnis_Soziologie_SoSe_2018.pdf
+│   │   │   │   │   │   ├── Vorlesungsverzeichnis_Soziologie_SoSe_2019.pdf
+│   │   │   │   │   │   ├── Vorlesungsverzeichnis_Soziologie_SoSe_2020.pdf
+│   │   │   │   │   │   ├── Vorlesungsverzeichnis_Soziologie_SoSe_2021.pdf
+│   │   │   │   │   │   ├── Vorlesungsverzeichnis_Soziologie_SoSe_2022.pdf
+│   │   │   │   │   │   ├── Vorlesungsverzeichnis_Soziologie_SoSe_2023_v7.pdf
+│   │   │   │   │   │   ├── Vorlesungsverzeichnis_Soziologie_SoSe_2024_V7.pdf
+│   │   │   │   │   │   ├── Vorlesungsverzeichnis_Soziologie_WiSe_2017_18.pdf
+│   │   │   │   │   │   ├── Vorlesungsverzeichnis_Soziologie_WiSe_2018_19.pdf
+│   │   │   │   │   │   ├── Vorlesungsverzeichnis_Soziologie_WiSe_2019_20.pdf
+│   │   │   │   │   │   ├── Vorlesungsverzeichnis_Soziologie_WiSe_2020_21.pdf
+│   │   │   │   │   │   ├── Vorlesungsverzeichnis_Soziologie_WiSe_2021_22.pdf
+│   │   │   │   │   │   ├── Vorlesungsverzeichnis_Soziologie_WiSe_2022_23.pdf
+│   │   │   │   │   │   └── Vorlesungsverzeichnis_WiSe_2023_24_v9.pdf
+│   │   │   │   │   └── Workshop_Social_Norms_July_7_-10__2024_cfp.pdf
+│   │   │   │   └── Fotos
+│   │   │   │       └── LNDW_Poster_Tuppat.pdf
+│   │   │   ├── Institut_KMW
+│   │   │   │   ├── Call_for_Papers_Fachgruppentagung_Kommunikationsgeschichte_2023.pdf
+│   │   │   │   ├── Communication_Management
+│   │   │   │   │   ├── 2017_und_älter
+│   │   │   │   │   │   ├── Jahresbericht_2010_UniLeipzig-Kommunikationsmanagement.pdf
+│   │   │   │   │   │   ├── Jahresbericht_2011_UniLeipzig-Kommunikationsmanagement.pdf
+│   │   │   │   │   │   ├── Jahresbericht_2012_UniLeipzig-Kommunikationsmanagement.pdf
+│   │   │   │   │   │   ├── Jahresbericht_2013_Uni-Leipzig-Kommunikationsmanagement.pdf
+│   │   │   │   │   │   ├── Jahresbericht_2014_Uni-Leipzig-Kommunikationsmanagement.pdf
+│   │   │   │   │   │   ├── Jahresbericht_2015_Uni-Leipzig-Communication-Management.pdf
+│   │   │   │   │   │   ├── Jahresbericht_2016_Uni-Leipzig-Communication-Management.pdf
+│   │   │   │   │   │   └── Jahresbericht_2017_Web-Versionfinal.pdf
+│   │   │   │   │   ├── 2018
+│   │   │   │   │   │   └── Jahresbericht_2018_FINAL_Web.pdf
+│   │   │   │   │   ├── 2019
+│   │   │   │   │   │   └── 2019_Jahresbericht_CM.pdf
+│   │   │   │   │   ├── 2021
+│   │   │   │   │   │   ├── Jahresbericht_2020_final_web.pdf
+│   │   │   │   │   │   ├── Liste_Abschlussarbeiten_Stand_2021-10-28.pdf
+│   │   │   │   │   │   ├── MA_CM_neu_Modulbeschreibung_2021.pdf
+│   │   │   │   │   │   ├── MA_CM_neu_PO_2021.pdf
+│   │   │   │   │   │   ├── MA_CM_neu_SO_2021.pdf
+│   │   │   │   │   │   └── MA_CM_neu_Studienverlaufsplan_2021.pdf
+│   │   │   │   │   ├── 2022
+│   │   │   │   │   │   ├── Alumnibefragung_2022_Master_Communication_Management.pdf
+│   │   │   │   │   │   ├── Handbuchreihe_Unternehmenskommunikation_2022_Flyer.pdf
+│   │   │   │   │   │   └── Jahresbericht_2021_final_web.pdf
+│   │   │   │   │   ├── 2023
+│   │   │   │   │   │   └── Jahresbericht_2022_final_web.pdf
+│   │   │   │   │   ├── 2024
+│   │   │   │   │   │   ├── 2024_IPRRC_Siegel_Zerfass_Handout_Communication_Maturity.pdf
+│   │   │   │   │   │   ├── Jahresbericht_2023_final_Web.pdf
+│   │   │   │   │   │   ├── Liste_Abschlussarbeiten_Stand_2024-02-21.pdf
+│   │   │   │   │   │   ├── REFRESH_2024_Programm_final.pdf
+│   │   │   │   │   │   └── Uni_Leipzig_2024-Infobroschüre-Master_Communication_Management.pdf
+│   │   │   │   │   └── Allgemein
+│   │   │   │   │       ├── AnsgarZerfaß-CV-Deutsch.pdf
+│   │   │   │   │       ├── AnsgarZerfass-CV-English.pdf
+│   │   │   │   │       └── AnsgarZerfass-Publications.pdf
+│   │   │   │   ├── Crossmedia-Journalismus
+│   │   │   │   │   └── Dokumente
+│   │   │   │   │       └── WF_30LP_Crossmedia-Journalismus.pdf
+│   │   │   │   ├── Dateien
+│   │   │   │   │   └── Dateien_für_News
+│   │   │   │   │       └── 2023
+│   │   │   │   │           └── MHaller_Vortrag_in_fünf_Thesen_22-04-23.pdf
+│   │   │   │   ├── Dokumente
+│   │   │   │   │   ├── 01_Studium
+│   │   │   │   │   │   ├── Aenderungssatzung_PO_MA_GMC.pdf
+│   │   │   │   │   │   ├── Anmeldebogen_BA_KMW_PO_2012_neu.pdf
+│   │   │   │   │   │   ├── Anmeldebogen_BA_KMW_PO_2019_neu.pdf
+│   │   │   │   │   │   ├── Anrechnung_Studienleistungen
+│   │   │   │   │   │   │   └── Einstufungsbescheid_Anrechnungsbescheid_2022.pdf
+│   │   │   │   │   │   ├── Äquivalenztabelle_GMC_17072019.pdf
+│   │   │   │   │   │   ├── BA_KMW_Leitfaden_Portfolio.pdf
+│   │   │   │   │   │   ├── ba_kmw_Modulbeschreibung_07-03-2019.pdf
+│   │   │   │   │   │   ├── ba_kmw_modulbeschreibung_2012.pdf
+│   │   │   │   │   │   ├── ba_kmw_po_12.pdf
+│   │   │   │   │   │   ├── ba_kmw_po.pdf
+│   │   │   │   │   │   ├── ba_kmw_so_2012.pdf
+│   │   │   │   │   │   ├── ba_kmw_so.pdf
+│   │   │   │   │   │   ├── ba_kmw_Studienverlaufsplan_07-03-2019.pdf
+│   │   │   │   │   │   ├── Erasmus
+│   │   │   │   │   │   │   ├── Anwesenheitsliste_für_ERASMUS.pdf
+│   │   │   │   │   │   │   └── Erasmus_Leistungsnachweis.pdf
+│   │   │   │   │   │   ├── Formulare_Abschlussarbeiten
+│   │   │   │   │   │   │   ├── Anmeldebogen_Abschlussarbeit_BA_KMW_ab_SoSe24.pdf
+│   │   │   │   │   │   │   ├── Anmeldebogen_MA_KMW_ab_SoSe_2023_digital.pdf
+│   │   │   │   │   │   │   └── MA_KMW_Verlängerungsantrag_Formular.pdf
+│   │   │   │   │   │   ├── MA_KMW_Informationen_Praktikum.pdf
+│   │   │   │   │   │   ├── MA_KMW_Leitfaden_Portfolio.pdf
+│   │   │   │   │   │   ├── ma_kmw_po_2010.pdf
+│   │   │   │   │   │   ├── MA_KMW_Prüfungsordnung.pdf
+│   │   │   │   │   │   ├── ma_kmw_so_2010.pdf
+│   │   │   │   │   │   ├── MA_KMW_Studienordnung.pdf
+│   │   │   │   │   │   ├── Merkblatt_Studierende_BA_KMW_PO_2012.pdf
+│   │   │   │   │   │   ├── Merkblatt_zum_Mobilitätsfenster_2021_09_22.pdf
+│   │   │   │   │   │   ├── Modulbeschreibung_GMC.pdf
+│   │   │   │   │   │   ├── Modulbeschreibung_MA_KMW_2020.pdf
+│   │   │   │   │   │   ├── Modulbeschreibung_Wahlfach_BA_KMW.pdf
+│   │   │   │   │   │   ├── Ohio_Leipzig_Info_for_LU_students_2019.pdf
+│   │   │   │   │   │   ├── Pruefungsordnung_MA_GMC.pdf
+│   │   │   │   │   │   ├── Prüfungsordnung_und_Studienorganisation
+│   │   │   │   │   │   │   ├── 06_ma_kmw_Modulbeschreibung.pdf
+│   │   │   │   │   │   │   ├── 06_ma_kmw_Studienverlaufsplan.pdf
+│   │   │   │   │   │   │   ├── Lesefassung_PO_final_FormaliaAMM.pdf
+│   │   │   │   │   │   │   └── Lesefassung_SO_final.pdf
+│   │   │   │   │   │   ├── Seminarbeschreibungen_SoSe2021
+│   │   │   │   │   │   │   ├── Godulla_MA_CM__Research_seminar_Strategic_Online_Communication_06-005-526.pdf
+│   │   │   │   │   │   │   ├── Süss_MA_CM_Kampagnen_und_Konzeptionstechnik-06-005-525.pdf
+│   │   │   │   │   │   │   ├── Volk_MA_CM__Kommunikationssteuerung_Managementtools_06-005-522.pdf
+│   │   │   │   │   │   │   ├── Völzke_MACM_Kommunikations-_und_Präsentationstraining-06-005-525.pdf
+│   │   │   │   │   │   │   └── Wolf_MA_CM_Foundations_of_Online_Communication_06-005-526.pdf
+│   │   │   │   │   │   ├── Seminarbeschreibungen_SoSe2022
+│   │   │   │   │   │   │   ├── Arnold_Seminar_Medien_und_Öffentlichkeit.pdf
+│   │   │   │   │   │   │   └── SS_2022_Godulla_Research_in_Transformation_of_Communication.pdf
+│   │   │   │   │   │   ├── Seminarbeschreibungen_SoSe2023
+│   │   │   │   │   │   │   ├── B.A._Modul_06-005-1130_Medienpädagogik_Grundlagenmodul_II_Ganguin_SoSe_2023.pdf
+│   │   │   │   │   │   │   └── M.A._B.A._Colloquium_Pentzold.pdf
+│   │   │   │   │   │   ├── Seminarbeschreibungen_SoSe2024
+│   │   │   │   │   │   │   ├── Arnold_Seminarplan_Handlungstheorien_SoSe24.pdf
+│   │   │   │   │   │   │   ├── Arnold_Seminarplan_Medien_und_Öffentlichkeit_in_Zeiten_von_Konvergenz_und_Digitalisierung_SoSe24.pdf
+│   │   │   │   │   │   │   ├── Arnold_Seminarplan_Qualitative_Methoden_MA_SoSe24.pdf
+│   │   │   │   │   │   │   ├── Böttke_Lehrplanung_SoSe24_1115.pdf
+│   │   │   │   │   │   │   ├── Böttke_Lehrplanung_SoSe24_915.pdf
+│   │   │   │   │   │   │   ├── Bozkurt_-_Syllabus_SS24-Impact_in_Crossborder_Journalism.pdf
+│   │   │   │   │   │   │   ├── Brockhaus-SS24-S-Qualitative_empirische_Erhebungsmethoden-06-005-1134.pdf
+│   │   │   │   │   │   │   ├── Deep_Internationalization.pdf
+│   │   │   │   │   │   │   ├── Gemkow_Seminarbeschreibung.pdf
+│   │   │   │   │   │   │   ├── Hoffmann-SS24-Finanzkommunikation.pdf
+│   │   │   │   │   │   │   ├── Johann-SS24_PS_Research_Project_Communication_Management.pdf
+│   │   │   │   │   │   │   ├── Link-SS24-Quantitative_Datenerhebung_BA_06-005-1134.pdf
+│   │   │   │   │   │   │   ├── Link-SS24-Ü-KampagnenUndKonzeptionstechnik-06-005-546.pdf
+│   │   │   │   │   │   │   ├── Pentzold_Colloquium.pdf
+│   │   │   │   │   │   │   ├── Pentzold_Content_Producer.pdf
+│   │   │   │   │   │   │   ├── Pentzold_Übung_Content_Producer.pdf
+│   │   │   │   │   │   │   ├── Pentzold_Vorlesung.pdf
+│   │   │   │   │   │   │   ├── Rakebrand_Seminar_Qualitative_empirische_Erhebungsmethoden_SoSe2024.pdf
+│   │   │   │   │   │   │   ├── Rakebrand_Seminar_Zwischen_Fiktion_und_Nonfiktion_SoSe2024_-_Seminarbeschreibung_und_-ablauf.pdf
+│   │   │   │   │   │   │   ├── Seminar_Crossmedialer_Kulturjournalismus_SoSe2024_-_Seminarbeschreibung_und_-ablauf.pdf
+│   │   │   │   │   │   │   ├── Seminarplan-BA_Qualitative_empirische_Erbenungsmethoden_-_digitaler_Aktivismus.pdf
+│   │   │   │   │   │   │   ├── Seminarplan_Kahlisch.pdf
+│   │   │   │   │   │   │   ├── Siegel-SS24-S-Branding_und_Marketingkommunikation-06-005-547.pdf
+│   │   │   │   │   │   │   ├── Süss_Kommunikationsmanagement-Anwendungsfelder_06-005-1104.pdf
+│   │   │   │   │   │   │   ├── Wissenschaft_im_Film_SoSe24_Seminarbeschreibung.pdf
+│   │   │   │   │   │   │   ├── Wolf-SS24-V-Digital_Transformation_and_Communication_Trends_-_06-005-548.pdf
+│   │   │   │   │   │   │   ├── Zerfaß-SS24-S-Management-Tools-06-005-546.pdf
+│   │   │   │   │   │   │   └── Ziegele-SS24-S-Start-up_communication-06-005-1120.pdf
+│   │   │   │   │   │   ├── Seminarbeschreibungen_WS2021
+│   │   │   │   │   │   │   ├── Bentele_WS20-21_S_Gesch_Komm-manageent.pdf
+│   │   │   │   │   │   │   ├── Godulla_WS_20-21_S_Methodenvertiefung_und_Statistik_Datenanalyse.pdf
+│   │   │   │   │   │   │   ├── Hoffmann_WS_20-21_S_Finanzkommunikation.pdf
+│   │   │   │   │   │   │   ├── Hoffmann_WS_20-21_S_Grundlagen_und_Theorien.pdf
+│   │   │   │   │   │   │   ├── Kebbel-Möhrle-Wixforth_WS_20-21_S-Handlungsfelder.pdf
+│   │   │   │   │   │   │   ├── Schuppener_WS_20-21_S-Ethik_und_Recht.pdf
+│   │   │   │   │   │   │   ├── Volk_WS_20-21_S_Organisation_Kommunikation_und_Wirtschaft_Web.pdf
+│   │   │   │   │   │   │   ├── Wolf-Planer_WS_20-21_S_Forschungstransferprojekt_III_Stiftung_Depressioshilfe.pdf
+│   │   │   │   │   │   │   ├── Wolf_WS_20-21_S_Nonprofit-Kommunikation.pdf
+│   │   │   │   │   │   │   ├── Zerfaß-Hoffmann-WS20-K-Wissenschaftliches_Arbeiten_06-005-541.pdf
+│   │   │   │   │   │   │   ├── Zerfaß_WS_20-21_S_Forschungstransferprojekt-I-Bosch-06-005-534.pdf
+│   │   │   │   │   │   │   ├── Zerfaß_WS_20-21_S_Forschungstransferprojekt-II-Siemens_Healthineers-06-005-534.pdf
+│   │   │   │   │   │   │   └── Zerfaß_WS_20-21_VÜ_Management.pdf
+│   │   │   │   │   │   ├── Seminarbeschreibungen_WS2122
+│   │   │   │   │   │   │   ├── Godulla_WS21-22_GMC_Forschungs-_und_Analysemethoden.pdf
+│   │   │   │   │   │   │   └── Rakebrand_Seminar_Kommunikations-_und_Medienethik_-_Beschreibung_und_-ablauf.pdf
+│   │   │   │   │   │   ├── Seminarbeschreibungen_WS2223
+│   │   │   │   │   │   │   ├── Donges_Seminar_Kommunikations-_und_Medienethik_Programm.pdf
+│   │   │   │   │   │   │   ├── Donges_VL_Einführung_KMW_Programm.pdf
+│   │   │   │   │   │   │   └── Donges_VL_Mediensystem_Programm.pdf
+│   │   │   │   │   │   ├── Seminarbeschreibungen_WS2324
+│   │   │   │   │   │   │   ├── BA_MA_Kolloquium_PENTZOLD_final.pdf
+│   │   │   │   │   │   │   ├── Beschreibung_Seminar_Pankrath_Modul_06-05-582_final.pdf
+│   │   │   │   │   │   │   ├── Beschreibung_Seminar_PankrathReinelt_Modul_06-05-554_1.pdf
+│   │   │   │   │   │   │   ├── Charlotte_Knorr_Project_module_MA_KMW_Big_City_as_networked_space.pdf
+│   │   │   │   │   │   │   ├── Ehrhart-WS23-S-GlobalCorporateCommunications-06-005-537.pdf
+│   │   │   │   │   │   │   ├── Elsner_BA_Parasocial_Crisis.pdf
+│   │   │   │   │   │   │   ├── Elsner_MA_Wissen_in_der_Krise.pdf
+│   │   │   │   │   │   │   ├── FTP_III_Hoffmann_Binder-Tietz.pdf
+│   │   │   │   │   │   │   ├── Godulla_Angewandte_Methoden___Projektbezogene_Forschung.pdf
+│   │   │   │   │   │   │   ├── HoffmannWolfZerfass-WS23-V-CommunicationManagementAndOrganizationalCommunication-06-005-542.pdf
+│   │   │   │   │   │   │   ├── Hoffmann-WS23-S-Kommunikationsmanagement-06-005-1127.pdf
+│   │   │   │   │   │   │   ├── Hofmann_Public_Affairs_WS_23-24.pdf
+│   │   │   │   │   │   │   ├── Lena_Fölsche_Methodenvertiefung-Großstadt-Seminarplan_V2.pdf
+│   │   │   │   │   │   │   ├── Link_S-Interne_Kommunikation_WS23-24.pdf
+│   │   │   │   │   │   │   ├── Pentzold_Projektseminar_Digitaler_Alltag.pdf
+│   │   │   │   │   │   │   ├── Pentzold_Seminar_Media___Time.pdf
+│   │   │   │   │   │   │   ├── Pentzold_Seminar_Medien_-_Kulturen_-_Kontexte_PENTZOLD.pdf
+│   │   │   │   │   │   │   ├── Pentzold_Seminar_Medien_Zeit.pdf
+│   │   │   │   │   │   │   ├── Rakebrand_Seminar_Crossmedia-Journalismus_Grundlagen_und_Formen_WiSe_2023-24.pdf
+│   │   │   │   │   │   │   ├── Rakebrand_Übung_Lehrredaktion_–_Crossmedialer_Journalismus_für_Beginner_innen_WiSe_2023-24.pdf
+│   │   │   │   │   │   │   ├── Ringvorlesung_MA_KMW_Programm_2023-24-2.pdf
+│   │   │   │   │   │   │   ├── SeminarplanV2_Master_KMW_Einführung_Mielke_Möglich.pdf
+│   │   │   │   │   │   │   ├── SeminarplanV2_WiSe23_24.A._Böttke.pdf
+│   │   │   │   │   │   │   ├── SeminarplanWS23_24_DigitalFeminism_Polatdemir_Saadi_22.08.2023.pdf
+│   │   │   │   │   │   │   ├── Siegel_BA_06-005-1127_Werbekommunikation_WS-23-24_Seminarplan.pdf
+│   │   │   │   │   │   │   ├── Übung_Feature_WiSe_2023-24_Thomas_Rakebrand.pdf
+│   │   │   │   │   │   │   ├── Übung_Reportage_WiSe_2023-24_Thomas_Rakebrand.pdf
+│   │   │   │   │   │   │   ├── Wolf_Bachelorkolloquium_W23_24.pdf
+│   │   │   │   │   │   │   ├── Wolf_MasterkolloquiumWS23_24.pdf
+│   │   │   │   │   │   │   ├── Wolf_Nonprofit-Kommunikation_WS23_24_06-005-544.pdf
+│   │   │   │   │   │   │   ├── Wolf_Ziegele_FTP_II_Startup_06-005-558_.pdf
+│   │   │   │   │   │   │   ├── Zerfaß_Brockhaus_WS23_Forschungsmodul_Strategische_Kommunikation_06_005_557.pdf
+│   │   │   │   │   │   │   ├── Zerfass-WS23-S-InternationalResearch-06-005-537.pdf
+│   │   │   │   │   │   │   ├── Zerfass-WS23-V-StrategicCommunication-06-005-542.pdf
+│   │   │   │   │   │   │   └── Zerfaß-WS23-VÜ-Management-06-005-543.pdf
+│   │   │   │   │   │   ├── Studienordnung_MA_GMC.pdf
+│   │   │   │   │   │   ├── Studienverlaufsplan_BA_KMW__PO_2019_.pdf
+│   │   │   │   │   │   ├── Studienverlaufsplan_GMC_2019.pdf
+│   │   │   │   │   │   ├── Studienverlaufsplan_Wahlfach_KMW.pdf
+│   │   │   │   │   │   ├── Vergabeverfahren_Bachelorarbeiten
+│   │   │   │   │   │   │   ├── Donges_-_Themen_BA_2018-19.pdf
+│   │   │   │   │   │   │   ├── Ergebnis_Zuteilung
+│   │   │   │   │   │   │   │   ├── BetreuerInnen_SoSe24.pdf
+│   │   │   │   │   │   │   │   └── BetreuerInnen_WiSe23.pdf
+│   │   │   │   │   │   │   ├── Godulla_Themen_BA_SS20.pdf
+│   │   │   │   │   │   │   └── Themen_Hinweise_BA_Arbeiten
+│   │   │   │   │   │   │       ├── Bachelorarbeiten_Zerfass_SoSe_2024.pdf
+│   │   │   │   │   │   │       ├── BA_Hinweise_Bartsch_2024SS.pdf
+│   │   │   │   │   │   │       ├── BA_Hinweise_Hoffmann_2024SS.pdf
+│   │   │   │   │   │   │       ├── BA_Hinweise_Machill_2023WS.pdf
+│   │   │   │   │   │   │       ├── BA_Hinweise_Pentzold_2022WS.pdf
+│   │   │   │   │   │   │       ├── BA_Hinweise_Stollfuß_2023WS.pdf
+│   │   │   │   │   │   │       └── BA_Hinweise_Venema_2023WS.pdf
+│   │   │   │   │   │   └── Wahlfach_30LP_KMW_2019.pdf
+│   │   │   │   │   └── 03_Institut
+│   │   │   │   │       ├── 20190625_Jahresbericht_IfkMW_2018.pdf
+│   │   │   │   │       ├── 31122006_Jahresbericht_IfKMW_2006.pdf
+│   │   │   │   │       ├── 31122007_Jahresbericht_IfKMW_2007.pdf
+│   │   │   │   │       ├── 31122010_Jahresbericht_IfKMW_2010.pdf
+│   │   │   │   │       ├── Institutsjahresbericht_IfKMW_2017.pdf
+│   │   │   │   │       ├── Institutssatzung_IfKMW_Fassung_180610.pdf
+│   │   │   │   │       ├── Jahresbericht_IfKMW_2014.pdf
+│   │   │   │   │       ├── Jahresbericht_Institut_für_Kommunikations_und_Medienwissenschaft_2008.pdf
+│   │   │   │   │       ├── Jahresbericht_Institut_für_Kommunikations_und_Medienwissenschaft_2009.pdf
+│   │   │   │   │       ├── Jahresbericht_Institut_für_Kommunikations_und_Medienwissenschaft_2011.pdf
+│   │   │   │   │       ├── Jahresbericht_Institut_für_Kommunikations_und_Medienwissenschaft_2012.pdf
+│   │   │   │   │       ├── Jahresbericht_Institut_für_Kommunikations_und_Medienwissenschaft_2013.pdf
+│   │   │   │   │       ├── Jahresbericht_Institut_für_Kommunikations_und_Medienwissenschaft_2015.pdf
+│   │   │   │   │       └── Jahresbericht_Institut_für_Kommunikations_und_Medienwissenschaft_2016.pdf
+│   │   │   │   ├── Empirie
+│   │   │   │   │   └── Dokumente_Tagung_Gesundheitskommunikation_2020
+│   │   │   │   │       ├── BoA2020_01.pdf
+│   │   │   │   │       ├── Call_for_Papers_-_Nachwuchsworkshop_2020.pdf
+│   │   │   │   │       ├── CfP_Gesundheitskommunikation_2020.pdf
+│   │   │   │   │       ├── Frehmann_Schäfer_2020a_Factsheet_zu_Podcast.pdf
+│   │   │   │   │       ├── Frehmann_Schäfer_2020b_Poster.pdf
+│   │   │   │   │       ├── gesundheitskommunikation_09.20.pdf
+│   │   │   │   │       ├── Guide_Wonder.pdf
+│   │   │   │   │       ├── Guide_Zoom.pdf
+│   │   │   │   │       ├── Link_et_al_Poster_Wenn_Google_krank_macht.pdf
+│   │   │   │   │       ├── Nicht-intendierte_Fallbeispiel-Effekte_GesKom2020_-_Leipzig_Möhring__Röhm__Nellen__Hastall.pdf
+│   │   │   │   │       └── Wagner__2020_._Zwischen_fomo_und_Selbstüberwachung.pdf
+│   │   │   │   ├── Erasmus
+│   │   │   │   │   ├── Übersicht_Lehrangebot_Incomings_Bachelor.pdf
+│   │   │   │   │   └── Übersicht_Lehrangebot_Incomings_Master.pdf
+│   │   │   │   ├── GMC
+│   │   │   │   │   ├── 2019_CEC_Infodokument.pdf
+│   │   │   │   │   ├── 2019_Combined_Master_s_Thesis_Process_for_OU_UL_Students.pdf
+│   │   │   │   │   ├── 2019_Ohio_Leipzig_Info_for_LU_students.pdf
+│   │   │   │   │   └── Anmeldebogen_MA_ab_WiSe_19-20.pdf
+│   │   │   │   ├── Journalismus
+│   │   │   │   │   ├── Beiler_Taetigkeiten.pdf
+│   │   │   │   │   ├── Campus
+│   │   │   │   │   │   ├── campus_1996_07_05.pdf
+│   │   │   │   │   │   ├── campus_1996_10_25.pdf
+│   │   │   │   │   │   ├── campus_1996_11_13.pdf
+│   │   │   │   │   │   ├── campus_1996_11_27.pdf
+│   │   │   │   │   │   ├── campus_1996_12_18.pdf
+│   │   │   │   │   │   ├── campus_1997_01_10.pdf
+│   │   │   │   │   │   ├── campus_1997_01_31.pdf
+│   │   │   │   │   │   ├── campus_1997_04_25.pdf
+│   │   │   │   │   │   ├── campus_1997_05_14.pdf
+│   │   │   │   │   │   ├── campus_1997_05_22.pdf
+│   │   │   │   │   │   ├── campus_1997_06_05.pdf
+│   │   │   │   │   │   ├── campus_1997_06_19.pdf
+│   │   │   │   │   │   ├── campus_1997_07_17.pdf
+│   │   │   │   │   │   ├── campus_1997_07_25.pdf
+│   │   │   │   │   │   ├── campus_1997_10_30.pdf
+│   │   │   │   │   │   ├── campus_1997_11_26.pdf
+│   │   │   │   │   │   ├── campus_1997_12_13.pdf
+│   │   │   │   │   │   ├── campus_1998_01_16.pdf
+│   │   │   │   │   │   ├── campus_1998_02_04.pdf
+│   │   │   │   │   │   ├── campus_1998_02_28.pdf
+│   │   │   │   │   │   ├── campus_1998_05_04.pdf
+│   │   │   │   │   │   ├── campus_1998_06_04.pdf
+│   │   │   │   │   │   ├── campus_1998_06_23.pdf
+│   │   │   │   │   │   ├── campus_1998_07_02.pdf
+│   │   │   │   │   │   ├── campus_1998_07_22.pdf
+│   │   │   │   │   │   ├── campus_1998_08_03.pdf
+│   │   │   │   │   │   ├── campus_1998_08_27.pdf
+│   │   │   │   │   │   ├── campus_1998_10_10.pdf
+│   │   │   │   │   │   ├── campus_1998_11_09.pdf
+│   │   │   │   │   │   ├── campus_1998_11_25.pdf
+│   │   │   │   │   │   ├── campus_1998_12_09.pdf
+│   │   │   │   │   │   ├── campus_1998_12_31.pdf
+│   │   │   │   │   │   ├── campus_1999_01_30.pdf
+│   │   │   │   │   │   ├── campus_1999_02_15.pdf
+│   │   │   │   │   │   ├── campus_1999_04_15.pdf
+│   │   │   │   │   │   ├── campus_1999_05_06.pdf
+│   │   │   │   │   │   ├── campus_1999_05_22.pdf
+│   │   │   │   │   │   ├── campus_1999_05_29.pdf
+│   │   │   │   │   │   ├── campus_1999_06_24.pdf
+│   │   │   │   │   │   ├── campus_1999_07_02.pdf
+│   │   │   │   │   │   ├── campus_1999_07_16.pdf
+│   │   │   │   │   │   ├── campus_1999_08_06.pdf
+│   │   │   │   │   │   ├── campus_1999_10_14.pdf
+│   │   │   │   │   │   ├── campus_1999_11_09.pdf
+│   │   │   │   │   │   ├── campus_1999_11_20.pdf
+│   │   │   │   │   │   ├── campus_1999_12_06.pdf
+│   │   │   │   │   │   ├── campus_1999_12_27.pdf
+│   │   │   │   │   │   ├── campus_2000_01_13.pdf
+│   │   │   │   │   │   ├── campus_2000_02_02.pdf
+│   │   │   │   │   │   ├── campus_2000_02_16.pdf
+│   │   │   │   │   │   ├── campus_2000_05_03.pdf
+│   │   │   │   │   │   ├── campus_2000_05_11.pdf
+│   │   │   │   │   │   ├── campus_2000_05_16.pdf
+│   │   │   │   │   │   ├── campus_2000_05_25.pdf
+│   │   │   │   │   │   ├── campus_2000_06_09.pdf
+│   │   │   │   │   │   ├── campus_2000_07_01.pdf
+│   │   │   │   │   │   ├── campus_2000_07_04.pdf
+│   │   │   │   │   │   ├── campus_2000_07_28.pdf
+│   │   │   │   │   │   ├── campus_2000_10_20.pdf
+│   │   │   │   │   │   ├── campus_2000_11_02.pdf
+│   │   │   │   │   │   ├── campus_2000_12_13.pdf
+│   │   │   │   │   │   ├── campus_2000_12_14.pdf
+│   │   │   │   │   │   ├── campus_2000_12_20.pdf
+│   │   │   │   │   │   ├── campus_2001_01_20.pdf
+│   │   │   │   │   │   ├── campus_2001_02_09.pdf
+│   │   │   │   │   │   ├── campus_2001_02_21.pdf
+│   │   │   │   │   │   ├── campus_2001_03_23.pdf
+│   │   │   │   │   │   ├── campus_2001_05_08.pdf
+│   │   │   │   │   │   ├── campus_2001_05_25.pdf
+│   │   │   │   │   │   ├── campus_2001_06_09.pdf
+│   │   │   │   │   │   ├── campus_2001_06_30.pdf
+│   │   │   │   │   │   ├── campus_2001_07_12.pdf
+│   │   │   │   │   │   ├── campus_2001_11_07.pdf
+│   │   │   │   │   │   ├── campus_2001_11_16.pdf
+│   │   │   │   │   │   ├── campus_2001_12_04.pdf
+│   │   │   │   │   │   ├── campus_2001_12_28.pdf
+│   │   │   │   │   │   ├── campus_2002_01_26.pdf
+│   │   │   │   │   │   ├── campus_2002_02_02.pdf
+│   │   │   │   │   │   ├── campus_2002_02_09.pdf
+│   │   │   │   │   │   ├── campus_2002_02_28.pdf
+│   │   │   │   │   │   ├── campus_2002_05_03.pdf
+│   │   │   │   │   │   ├── campus_2002_05_28.pdf
+│   │   │   │   │   │   ├── campus_2002_06_01.pdf
+│   │   │   │   │   │   ├── campus_2002_06_18.pdf
+│   │   │   │   │   │   ├── campus_2002_06_29.pdf
+│   │   │   │   │   │   ├── campus_2002_07_13.pdf
+│   │   │   │   │   │   ├── campus_2002_07_29.pdf
+│   │   │   │   │   │   ├── campus_2002_11_22.pdf
+│   │   │   │   │   │   ├── campus_2002_12_09.pdf
+│   │   │   │   │   │   ├── campus_2002_12_18.pdf
+│   │   │   │   │   │   ├── campus_2003_03_03.pdf
+│   │   │   │   │   │   ├── campus_2003_03_19.pdf
+│   │   │   │   │   │   ├── campus_2003_05_10.pdf
+│   │   │   │   │   │   ├── campus_2003_05_24.pdf
+│   │   │   │   │   │   ├── campus_2003_06_07.pdf
+│   │   │   │   │   │   ├── campus_2003_06_14.pdf
+│   │   │   │   │   │   ├── campus_2003_07_04.pdf
+│   │   │   │   │   │   ├── campus_2003_07_11.pdf
+│   │   │   │   │   │   ├── campus_2003_07_25.pdf
+│   │   │   │   │   │   ├── campus_2003_08_25.pdf
+│   │   │   │   │   │   ├── campus_2003_10_15.pdf
+│   │   │   │   │   │   ├── campus_2003_11_12.pdf
+│   │   │   │   │   │   ├── campus_2003_11_25.pdf
+│   │   │   │   │   │   ├── campus_2003_12_06.pdf
+│   │   │   │   │   │   ├── campus_2004_01_21.pdf
+│   │   │   │   │   │   ├── campus_2004_02_02.pdf
+│   │   │   │   │   │   ├── campus_2004_02_11.pdf
+│   │   │   │   │   │   ├── campus_2004_04_16.pdf
+│   │   │   │   │   │   ├── campus_2004_05_13.pdf
+│   │   │   │   │   │   ├── campus_2004_05_28.pdf
+│   │   │   │   │   │   ├── campus_2004_06_17.pdf
+│   │   │   │   │   │   ├── campus_2004_07_01.pdf
+│   │   │   │   │   │   ├── campus_2004_07_07.pdf
+│   │   │   │   │   │   ├── campus_2004_07_29.pdf
+│   │   │   │   │   │   ├── campus_2004_08_07.pdf
+│   │   │   │   │   │   ├── campus_2004_10_04.pdf
+│   │   │   │   │   │   ├── campus_2004_11_15.pdf
+│   │   │   │   │   │   ├── campus_2004_11_29.pdf
+│   │   │   │   │   │   ├── campus_2005_02_07.pdf
+│   │   │   │   │   │   ├── campus_2005_02_21.pdf
+│   │   │   │   │   │   ├── campus_2005_03_09.pdf
+│   │   │   │   │   │   ├── campus_2005_04_01.pdf
+│   │   │   │   │   │   ├── campus_2005_04_21.pdf
+│   │   │   │   │   │   ├── campus_2005_05_18.pdf
+│   │   │   │   │   │   ├── campus_2005_06_01.pdf
+│   │   │   │   │   │   ├── campus_2005_06_23.pdf
+│   │   │   │   │   │   ├── campus_2005_07_15.pdf
+│   │   │   │   │   │   ├── campus_2005_07_23.pdf
+│   │   │   │   │   │   ├── campus_2005_08_05.pdf
+│   │   │   │   │   │   ├── campus_2005_08_22.pdf
+│   │   │   │   │   │   ├── campus_2005_11_09.pdf
+│   │   │   │   │   │   ├── campus_2005_12_01.pdf
+│   │   │   │   │   │   ├── campus_2005_12_09.pdf
+│   │   │   │   │   │   ├── campus_2005_12_23.pdf
+│   │   │   │   │   │   ├── campus_2006_01_20.pdf
+│   │   │   │   │   │   ├── campus_2006_02_04.pdf
+│   │   │   │   │   │   ├── campus_2006_03_18.pdf
+│   │   │   │   │   │   ├── campus_2006_03_31.pdf
+│   │   │   │   │   │   ├── campus_2006_05_19.pdf
+│   │   │   │   │   │   ├── campus_2006_06_08.pdf
+│   │   │   │   │   │   ├── campus_2006_06_20.pdf
+│   │   │   │   │   │   ├── campus_2006_07_08.pdf
+│   │   │   │   │   │   ├── campus_2006_07_18.pdf
+│   │   │   │   │   │   ├── campus_2006_07_31.pdf
+│   │   │   │   │   │   ├── campus_2006_08_16.pdf
+│   │   │   │   │   │   ├── campus_2006_10_12.pdf
+│   │   │   │   │   │   ├── campus_2006-12-05.pdf
+│   │   │   │   │   │   ├── campus_2006-12-16.pdf
+│   │   │   │   │   │   ├── campus_2007-01-15.pdf
+│   │   │   │   │   │   ├── campus_2007-02-12.pdf
+│   │   │   │   │   │   ├── campus_2007-02-26.pdf
+│   │   │   │   │   │   ├── campus_2007-03-31.pdf
+│   │   │   │   │   │   ├── campus_2007-05-14.pdf
+│   │   │   │   │   │   ├── campus_2007-05-29.pdf
+│   │   │   │   │   │   ├── campus_2007-06-07.pdf
+│   │   │   │   │   │   ├── campus_2007-06-16.pdf
+│   │   │   │   │   │   ├── campus_2007-07-12.pdf
+│   │   │   │   │   │   ├── campus_2007-07-19.pdf
+│   │   │   │   │   │   ├── campus_2007-07-28.pdf
+│   │   │   │   │   │   ├── campus_2007-08-27.pdf
+│   │   │   │   │   │   ├── campus_2007-10-02.pdf
+│   │   │   │   │   │   ├── campus_2007-11-12.pdf
+│   │   │   │   │   │   ├── campus_2007-11-30.pdf
+│   │   │   │   │   │   ├── campus_2007-12-10.pdf
+│   │   │   │   │   │   ├── campus_2007-12-31.pdf
+│   │   │   │   │   │   ├── campus_2008-01-07.pdf
+│   │   │   │   │   │   ├── campus_2008-01-28.pdf
+│   │   │   │   │   │   ├── campus_2008-03-03.pdf
+│   │   │   │   │   │   ├── campus_2008-05-05.pdf
+│   │   │   │   │   │   ├── campus_2008-05-19.pdf
+│   │   │   │   │   │   ├── campus_2008-06-09.pdf
+│   │   │   │   │   │   ├── campus_2008-06-24.pdf
+│   │   │   │   │   │   ├── campus_2008-07-07.pdf
+│   │   │   │   │   │   ├── campus_2008-07-21.pdf
+│   │   │   │   │   │   ├── campus_2008-08-04.pdf
+│   │   │   │   │   │   ├── campus_2008-09-15.pdf
+│   │   │   │   │   │   ├── campus_2008-11-10.pdf
+│   │   │   │   │   │   ├── campus_2008-12-01.pdf
+│   │   │   │   │   │   ├── campus_2008-12-15.pdf
+│   │   │   │   │   │   ├── campus_2008-12-30.pdf
+│   │   │   │   │   │   ├── campus_2009-01-12.pdf
+│   │   │   │   │   │   ├── campus_2009-01-26.pdf
+│   │   │   │   │   │   ├── campus_2009-02-09.pdf
+│   │   │   │   │   │   ├── campus_2009-02-23.pdf
+│   │   │   │   │   │   ├── campus_2009-03-09.pdf
+│   │   │   │   │   │   ├── campus_2009-05-25.pdf
+│   │   │   │   │   │   ├── campus_2009-06-15.pdf
+│   │   │   │   │   │   ├── campus_2009-07-10.pdf
+│   │   │   │   │   │   ├── campus_2009-07-20.pdf
+│   │   │   │   │   │   ├── campus_2009-07-27.pdf
+│   │   │   │   │   │   ├── campus_2009-08-10.pdf
+│   │   │   │   │   │   ├── campus_2009-09-14.pdf
+│   │   │   │   │   │   ├── campus_2009-10-19.pdf
+│   │   │   │   │   │   ├── campus_2009-11-02.pdf
+│   │   │   │   │   │   ├── campus_2009-11-23.pdf
+│   │   │   │   │   │   ├── campus_2009-12-07.pdf
+│   │   │   │   │   │   ├── campus_2009-12-28.pdf
+│   │   │   │   │   │   ├── campus_2010-01-04.pdf
+│   │   │   │   │   │   ├── campus_2010-02-01.pdf
+│   │   │   │   │   │   ├── campus_2010-02-22.pdf
+│   │   │   │   │   │   ├── campus_2010-04-09.pdf
+│   │   │   │   │   │   ├── campus_2010-04-29.pdf
+│   │   │   │   │   │   ├── campus_2010-05-28.pdf
+│   │   │   │   │   │   ├── campus_2010-06-11.pdf
+│   │   │   │   │   │   ├── campus_2010-06-25.pdf
+│   │   │   │   │   │   ├── campus_2010-07-16.pdf
+│   │   │   │   │   │   ├── campus_2010-07-23.pdf
+│   │   │   │   │   │   ├── campus_2010-08-06.pdf
+│   │   │   │   │   │   ├── campus_2010-08-13.pdf
+│   │   │   │   │   │   ├── campus_2010-09-03.pdf
+│   │   │   │   │   │   ├── campus_2010-09-24.pdf
+│   │   │   │   │   │   ├── campus_2010-11-05.pdf
+│   │   │   │   │   │   ├── campus_2010-12-10.pdf
+│   │   │   │   │   │   ├── campus_2011-01-07.pdf
+│   │   │   │   │   │   ├── campus_2011-01-28.pdf
+│   │   │   │   │   │   ├── campus_2011-02-18.pdf
+│   │   │   │   │   │   ├── campus_2011-05-20.pdf
+│   │   │   │   │   │   ├── campus_2011-06-03.pdf
+│   │   │   │   │   │   ├── campus_2011-06-17.pdf
+│   │   │   │   │   │   ├── campus_2011-07-01.pdf
+│   │   │   │   │   │   ├── campus_2011-07-15.pdf
+│   │   │   │   │   │   ├── campus_2011-07-29.pdf
+│   │   │   │   │   │   ├── campus_2011-08-19.pdf
+│   │   │   │   │   │   ├── campus_2011-09-30.pdf
+│   │   │   │   │   │   ├── campus_2011-10-28.pdf
+│   │   │   │   │   │   ├── campus_2011-11-25.pdf
+│   │   │   │   │   │   ├── campus_2011-12-09.pdf
+│   │   │   │   │   │   ├── campus_2011-12-30.pdf
+│   │   │   │   │   │   ├── campus_2012-01-27.pdf
+│   │   │   │   │   │   ├── campus_2012-02-17.pdf
+│   │   │   │   │   │   ├── campus_2012-03-02.pdf
+│   │   │   │   │   │   ├── campus_2012-04-13.pdf
+│   │   │   │   │   │   ├── campus_2012-05-11.pdf
+│   │   │   │   │   │   ├── campus_2012-05-25.pdf
+│   │   │   │   │   │   ├── campus_2012-06-08.pdf
+│   │   │   │   │   │   ├── campus_2012-06-22.pdf
+│   │   │   │   │   │   ├── campus_2012-07-06.pdf
+│   │   │   │   │   │   ├── campus_2012-07-20.pdf
+│   │   │   │   │   │   ├── campus_2012-08-03.pdf
+│   │   │   │   │   │   ├── campus_2012-08-31.pdf
+│   │   │   │   │   │   ├── campus_2012-11-02.pdf
+│   │   │   │   │   │   ├── campus_2012-11-30.pdf
+│   │   │   │   │   │   ├── campus_2012-12-14.pdf
+│   │   │   │   │   │   ├── campus_2013-01-03.pdf
+│   │   │   │   │   │   ├── campus_2013-01-30.pdf
+│   │   │   │   │   │   ├── campus_2013-02-06.pdf
+│   │   │   │   │   │   ├── campus_2013-03-09.pdf
+│   │   │   │   │   │   ├── campus_2013-05-23.pdf
+│   │   │   │   │   │   ├── campus_2013-06-12.pdf
+│   │   │   │   │   │   ├── campus_2013-07-25.pdf
+│   │   │   │   │   │   ├── campus_2013-08-22.pdf
+│   │   │   │   │   │   ├── campus_2013-09-26.pdf
+│   │   │   │   │   │   ├── campus_2013-10-10.pdf
+│   │   │   │   │   │   ├── campus_2013-11-28.pdf
+│   │   │   │   │   │   ├── campus_2013-12-19.pdf
+│   │   │   │   │   │   ├── campus_2014-04-10.pdf
+│   │   │   │   │   │   ├── campus_2014-06-19.pdf
+│   │   │   │   │   │   ├── campus_2014-07-24.pdf
+│   │   │   │   │   │   ├── campus_2014-11-13.pdf
+│   │   │   │   │   │   ├── campus_2014-12-04.pdf
+│   │   │   │   │   │   ├── campus_2015-01-08.pdf
+│   │   │   │   │   │   ├── campus_2015-01-29.pdf
+│   │   │   │   │   │   ├── campus_2015-02-12.pdf
+│   │   │   │   │   │   ├── campus_2015-03-26.pdf
+│   │   │   │   │   │   ├── campus_2015-05-13.pdf
+│   │   │   │   │   │   ├── campus_2015-05-21.pdf
+│   │   │   │   │   │   ├── campus_2015-06-04.pdf
+│   │   │   │   │   │   ├── campus_2015-06-18.pdf
+│   │   │   │   │   │   ├── campus_2015-07-02.pdf
+│   │   │   │   │   │   ├── campus_2015-07-30.pdf
+│   │   │   │   │   │   ├── campus_2015-08-06.pdf
+│   │   │   │   │   │   ├── campus_2015-10-08.pdf
+│   │   │   │   │   │   ├── campus_2015-11-19.pdf
+│   │   │   │   │   │   ├── campus_2015-12-10.pdf
+│   │   │   │   │   │   ├── campus_2015-12-17.pdf
+│   │   │   │   │   │   ├── campus_2016-02-04.pdf
+│   │   │   │   │   │   ├── campus_2016-02-11.pdf
+│   │   │   │   │   │   ├── campus_2016-03-31.pdf
+│   │   │   │   │   │   ├── campus_2016-04-28.pdf
+│   │   │   │   │   │   ├── campus_2016-05-19.pdf
+│   │   │   │   │   │   ├── campus_2016-06-02.pdf
+│   │   │   │   │   │   ├── campus_2016-06-22.pdf
+│   │   │   │   │   │   ├── campus_2016-07-07.pdf
+│   │   │   │   │   │   ├── campus_2016-07-14.pdf
+│   │   │   │   │   │   ├── campus_2016-09-01.pdf
+│   │   │   │   │   │   ├── campus_2016-10-06.pdf
+│   │   │   │   │   │   ├── campus_2016_11_10.pdf
+│   │   │   │   │   │   ├── campus_2016-12-08.pdf
+│   │   │   │   │   │   ├── campus_2016-12-22.pdf
+│   │   │   │   │   │   ├── campus_2017-01-26.pdf
+│   │   │   │   │   │   ├── campus_2017-03-23.pdf
+│   │   │   │   │   │   ├── campus_2017-04-20.pdf
+│   │   │   │   │   │   ├── campus_2017-05-18.pdf
+│   │   │   │   │   │   ├── campus_2017-06-08.pdf
+│   │   │   │   │   │   ├── campus_2017-07-06.pdf
+│   │   │   │   │   │   ├── campus_2017-07-20.pdf
+│   │   │   │   │   │   ├── campus_2017-12-14.pdf
+│   │   │   │   │   │   ├── campus_2018-01-04.pdf
+│   │   │   │   │   │   ├── campus_2018-02-08.pdf
+│   │   │   │   │   │   ├── campus_2018-06-28.pdf
+│   │   │   │   │   │   ├── campus_2018-07-26.pdf
+│   │   │   │   │   │   ├── campus_2018-08-30.pdf
+│   │   │   │   │   │   ├── campus_2018-12-06.pdf
+│   │   │   │   │   │   ├── campus_2019-01-17.pdf
+│   │   │   │   │   │   ├── campus_2019-02-14.pdf
+│   │   │   │   │   │   ├── campus_2019-07-19.pdf
+│   │   │   │   │   │   ├── campus_2019-08-29.pdf
+│   │   │   │   │   │   ├── campus_2019-09-13.pdf
+│   │   │   │   │   │   ├── campus_2020-01-14.pdf
+│   │   │   │   │   │   ├── campus_2020-02-14.pdf
+│   │   │   │   │   │   ├── campus_2020-02-25.pdf
+│   │   │   │   │   │   ├── campus_2020-05-19.pdf
+│   │   │   │   │   │   ├── campus_2020-06-16.pdf
+│   │   │   │   │   │   ├── campus_2020-08-11.pdf
+│   │   │   │   │   │   ├── campus_2020-08-20.pdf
+│   │   │   │   │   │   ├── campus_2021-01-08.pdf
+│   │   │   │   │   │   ├── campus_2021-04-16.pdf
+│   │   │   │   │   │   ├── campus_2021-05-14.pdf
+│   │   │   │   │   │   ├── campus_2021-08-17.pdf
+│   │   │   │   │   │   └── campus_2021-10-01.pdf
+│   │   │   │   │   ├── Krueger
+│   │   │   │   │   │   ├── 2022_WGgesucht_ZEIT_Campus.pdf
+│   │   │   │   │   │   ├── Alt_im_Vollzug_Kreuzer_2-2020.pdf
+│   │   │   │   │   │   ├── kreuzer_08_2022-Erich-Zeigner-Haus.pdf
+│   │   │   │   │   │   ├── Kreuzer_6-23_Keine_Kommunikationshauptstadt.pdf
+│   │   │   │   │   │   ├── Kreuzer_7-23_Ein_behinderndes_System.pdf
+│   │   │   │   │   │   ├── Krueger_Taetigkeiten.pdf
+│   │   │   │   │   │   ├── Palliativpflege_kreuzer_08-2021.pdf
+│   │   │   │   │   │   ├── Schwimmunterricht_Kreuzer_7-2020.pdf
+│   │   │   │   │   │   ├── Sexarbeit_Kreuzer_6-2021.pdf
+│   │   │   │   │   │   └── Wagenbauplätze_Kreuzer_5-2021.pdf
+│   │   │   │   │   ├── Lehrredaktion
+│   │   │   │   │   │   ├── SS_2024_Belegungsplan_Lehrredaktion.pdf
+│   │   │   │   │   │   ├── Technikausleihe_Journalismus_Formular.pdf
+│   │   │   │   │   │   └── Technikausleihe_Journalismus_Nutzungsbedingungen.pdf
+│   │   │   │   │   ├── MA_Journalistik_Antragsformular_Masterarbeit.pdf
+│   │   │   │   │   ├── MA_Journalistik_Titelblatt_Masterarbeit.pdf
+│   │   │   │   │   ├── MSc_Journalismus_Anhang_PO.pdf
+│   │   │   │   │   ├── MSc_Journalismus_Antragsformular_Masterarbeit_ausfüllbar.pdf
+│   │   │   │   │   ├── MSc_Journalismus_Erläuterungen_Bewerbungsunterlagen.pdf
+│   │   │   │   │   ├── MSc_Journalismus_Erläuterungen_Zugangsvoraussetzungen.pdf
+│   │   │   │   │   ├── MSc_Journalismus_Struktur_LVs.pdf
+│   │   │   │   │   ├── Struktur_MSc_Journalismus_231001.pdf
+│   │   │   │   │   └── Studienprojekte
+│   │   │   │   │       ├── Poster_CJC_Green_Deal.pdf
+│   │   │   │   │       ├── Poster_Deutschland-Doppel.pdf
+│   │   │   │   │       ├── Poster_MDR-Resteretter.pdf
+│   │   │   │   │       ├── Poster_Waffen.pdf
+│   │   │   │   │       └── Poster_Zukunftsangst.pdf
+│   │   │   │   ├── Kommunikationswissenschaft
+│   │   │   │   │   ├── Anforderungen_Hausarbeiten_KW_2019-02.pdf
+│   │   │   │   │   ├── Call_for_papers_KommInst_2020.pdf
+│   │   │   │   │   ├── Kategoriensystem_Öffentlicher_Rundfunk.pdf
+│   │   │   │   │   ├── Netzwerk_Medienstrukturen
+│   │   │   │   │   │   ├── Newsletter
+│   │   │   │   │   │   │   ├── Netzwerk_Medienstrukturen_-_Newsletter_25__Jan_2021_.pdf
+│   │   │   │   │   │   │   ├── Netzwerk_Medienstrukturen_-_Newsletter_26__Nov_2021_.pdf
+│   │   │   │   │   │   │   └── Netzwerk_Medienstrukturen_-_Newsletter_27__Feb_2022_.pdf
+│   │   │   │   │   │   ├── Protokolle
+│   │   │   │   │   │   │   ├── Netzwerk_Medienstrukturen_-_Protokoll_2017-01-20.pdf
+│   │   │   │   │   │   │   ├── Netzwerk_Medienstrukturen_-_Protokoll_2018-10-19.pdf
+│   │   │   │   │   │   │   └── Netzwerk_Medienstrukturen_-_Protokoll_2021-03-26.pdf
+│   │   │   │   │   │   └── Workshops
+│   │   │   │   │   │       ├── Call_for_Papers_zum_Workshop_2023_ext.pdf
+│   │   │   │   │   │       ├── cfp_netzwerk_20184.pdf
+│   │   │   │   │   │       ├── cfp_netzwerk_workshop_2021.pdf
+│   │   │   │   │   │       ├── Cfp_netzwerk_workshop_2022.pdf
+│   │   │   │   │   │       ├── medienc3b6konomie-netzwerk-medienstrukturen-2015-programm.pdf
+│   │   │   │   │   │       ├── Medienstrukturen_Workshop_Zürich.pdf
+│   │   │   │   │   │       ├── Programm_Medien_Demokratie_Digitalisierung.pdf
+│   │   │   │   │   │       ├── Programm_Workshop_Medienstrukturen_2023_def.pdf
+│   │   │   │   │   │       ├── programm-workshop-nw-medienstrukturen-2018-leipzig1.pdf
+│   │   │   │   │   │       └── workshop_2014_programm.pdf
+│   │   │   │   │   ├── Programm_Fachgruppentagung_Kommunikationsgeschichte_Gegenöffentlichkeiten.pdf
+│   │   │   │   │   ├── Projektbericht_Charlotte_Raatz.pdf
+│   │   │   │   │   ├── Projektbericht_Merle_Faensen.pdf
+│   │   │   │   │   ├── PSB_Großbritannien_-_Projektarbeit_Glaser__Flemming_Moll.pdf
+│   │   │   │   │   ├── Roemer_Projektbericht_MedienPR.pdf
+│   │   │   │   │   └── Sebastian_Scheitz.pdf
+│   │   │   │   ├── Medienpädagogik
+│   │   │   │   │   ├── 2019_CV_Nitsche_IfKMW.pdf
+│   │   │   │   │   ├── 2021_Praktika_B.A._KMW_Medienpädagogik.pdf
+│   │   │   │   │   └── Seminarbeschreibung_AnnekeElsner.pdf
+│   │   │   │   └── Medien-_und_Kommunikationswissenschaft
+│   │   │   │       ├── Ablauf_Praktika_MedienKomm.pdf
+│   │   │   │       ├── Abschlussbericht_AM2_final.pdf
+│   │   │   │       ├── digibel
+│   │   │   │       │   ├── a-AM3_Abschlussbericht_v2_anonym.pdf
+│   │   │   │       │   ├── DigiBeL_AM1_Handreichung_Akteurseinbindung_final.pdf
+│   │   │   │       │   └── Flyer_DigibeL-Link-neu-7-2-22.pdf
+│   │   │   │       └── Seminar_Medien_-_Kulturen_-_Kontexte_PENTZOLD.pdf
+│   │   │   ├── KlausurtermineModuleWiSe2023_24.pdf
+│   │   │   ├── kVVZ-2016-17_Aufl.6.pdf
+│   │   │   ├── kVVZ-2018-04.pdf
+│   │   │   ├── Leistungs-_Teilnahmeschein.pdf
+│   │   │   ├── Leitfaden_für_wissenschaftliche_Arbeiten_30.08.2022.pdf
+│   │   │   ├── ModulprüfungstermineWiSe2024_24_Kuwi.pdf
+│   │   │   ├── Praktikumsausschreibung_AFS_am_DJI_01-2022.pdf
+│   │   │   ├── Programme_EU_Finalité_Conceptions_After_Brexit.pdf
+│   │   │   ├── Prueferliste-Philosophie-WiSe2324.pdf
+│   │   │   ├── Prüferliste_GESI_WS23.pdf
+│   │   │   ├── Prüfungsberechtigte_WiSe_2023_24.pdf
+│   │   │   ├── Prüfungsmanagement
+│   │   │   │   ├── Anmeldebogen_Abschlussarbeit_BA_KMW_ab_SoSe24.pdf
+│   │   │   │   ├── Anmeldebogen_Abschlussarbeit_MA_CM_ab_SoSe_2024.pdf
+│   │   │   │   ├── Anmeldebogen_MA_KMW_ab_SoSe_2023_digital.pdf
+│   │   │   │   ├── Anmeldung_BA-Arbeit_Powi.pdf
+│   │   │   │   └── Anmeldung_MA-Arbeit_Powi.pdf
+│   │   │   ├── PrüfungstermineGESIWiSe2023_24.pdf
+│   │   │   ├── SoSe2024.pdf
+│   │   │   ├── Verfahren_Nachteilsausgleich.pdf
+│   │   │   ├── VVZ_ES_SS_2021.pdf
+│   │   │   ├── VVZ_ES_SS_2022.pdf
+│   │   │   ├── VVZ_ES_WS_2021.pdf
+│   │   │   ├── VVZ_GS_SS_2021.pdf
+│   │   │   ├── VVZ_GS_SS_2022.pdf
+│   │   │   ├── VVZ_GS_WS_2021.pdf
+│   │   │   ├── VVZ_SoSe2020_4-1.pdf
+│   │   │   ├── VVZ_SS2016_6.pdf
+│   │   │   ├── VVZ_SS2017_5.pdf
+│   │   │   ├── VVZ_SS2019_6.pdf
+│   │   │   ├── VVZ_WS17-18_9.pdf
+│   │   │   ├── VVZ_WS18-19_10.pdf
+│   │   │   ├── VVZWS19-20_8.pdf
+│   │   │   ├── WiSe2023_24.pdf
+│   │   │   └── WiSe2024_25.pdf
+│   │   ├── studiengangsdatenbank
+│   │   │   └── dokumente
+│   │   │       ├── Akkreditierungsurkunden
+│   │   │       │   ├── Akkreditierungsurkunde_Kulturwissenschaften_M.A._2018.pdf
+│   │   │       │   ├── Akkreditierungsurkunde_Philosophie_B.A._2018.pdf
+│   │   │       │   ├── Akkreditierungsurkunde_Philosophie_M.A._2018.pdf
+│   │   │       │   ├── Akkreditierungsurkunde_Soziologie_B.A._2019.pdf
+│   │   │       │   ├── Akkreditierungsurkunde_Soziologie_M.A._2019.pdf
+│   │   │       │   └── Akkreditierungurkunde_Kulturwissenschaften_B.A._2018.pdf
+│   │   │       ├── Studienfuehrer_European_Integratio_M.A.pdf
+│   │   │       ├── Studienfuehrer_Global_Mass_Communication_M.A.pdf
+│   │   │       ├── Studienfuehrer_Global_Studies_M.A.pdf
+│   │   │       ├── Studienfuehrer_Journalismus_M.Sc.pdf
+│   │   │       ├── Studienfuehrer_Kommunikations_u_Medienwissenschaft_M.A.pdf
+│   │   │       ├── Studienfuehrer_Kommunikation_u_Medienwissenschaft_B._A.pdf
+│   │   │       ├── Studienfuehrer_Kulturwissenschaften_B.A.pdf
+│   │   │       ├── Studienfuehrer_Kulturwissenschaften_M.A.pdf
+│   │   │       ├── studienfuehrer_philosophie_b.a.pdf
+│   │   │       ├── Studienfuehrer_Philosophie_M.A.pdf
+│   │   │       ├── Studienfuehrer_Politikwissenschaft_B.A.pdf
+│   │   │       ├── Studienfuehrer_Politikwissenschaft_M.A.pdf
+│   │   │       ├── Studienfuehrer_Soziologie_B.A.pdf
+│   │   │       └── Studienfuehrer_Soziologie_M.A.pdf
+│   │   ├── ul
+│   │   │   └── Dokumente
+│   │   │       ├── 210119_Bewerbung_Erasmus.pdf
+│   │   │       └── 240402_SI_Erasmus-Studienvereinbarung-Learning-Agreement_DE_EN.pdf
+│   │   └── user_upload
+│   │       ├── 190528_brecht-unter-fremden.pdf
+│   │       ├── 2021__Wegzehrung.pdf
+│   │       ├── 9_E__Anerkennungsergebnisse_Recognition_Results.pdf
+│   │       ├── Ausschreibung_Hiwi_08.2023_AutoWelf.pdf
+│   │       ├── Book_of_Abstracts___International_Conference_Big_Data_Discourses_final.pdf
+│   │       ├── CfA_Big_data_discourses.pdf
+│   │       ├── CfA_IJOC_Big_data_discourses_final.pdf
+│   │       ├── Daubitz___Taube_Instagram___die_Repräsentation_von_LGBTQ_-Jugendlichen.pdf
+│   │       ├── DigiBeL_AM5_Synthesebericht_final_4_Juni_2023.pdf
+│   │       ├── DigiBeL_Handlungsleitfaden_final-1.pdf
+│   │       ├── DigiBeL_PolicyBrief_final-1.pdf
+│   │       └── Program_conference_future_trends_of_strategic_communication_2020_NEW.pdf
+│   └── institut-fuer-philosophie
+│       └── fagi.html
+├── www.uni-leipzig.de
+│   ├── chancengleichheit.html
+│   ├── fileadmin
+│   │   ├── Fakultät_SozPhil
+│   │   │   └── jodem
+│   │   │       └── Team
+│   │   │           └── Kretzschmar_Taetigkeiten.pdf
+│   │   ├── studiengangsdatenbank
+│   │   │   └── dokumente
+│   │   │       ├── Akkreditierungsurkunden
+│   │   │       │   ├── Akkreditierungsurkunde_Kulturwissenschaften_M.A._2018.pdf
+│   │   │       │   ├── Akkreditierungsurkunde_Philosophie_B.A._2018.pdf
+│   │   │       │   ├── Akkreditierungsurkunde_Philosophie_M.A._2018.pdf
+│   │   │       │   ├── Akkreditierungsurkunde_Soziologie_B.A._2019.pdf
+│   │   │       │   ├── Akkreditierungsurkunde_Soziologie_M.A._2019.pdf
+│   │   │       │   └── Akkreditierungurkunde_Kulturwissenschaften_B.A._2018.pdf
+│   │   │       ├── Studienfuehrer_European_Integratio_M.A.pdf
+│   │   │       ├── Studienfuehrer_Global_Mass_Communication_M.A.pdf
+│   │   │       ├── Studienfuehrer_Global_Studies_M.A.pdf
+│   │   │       ├── Studienfuehrer_Journalismus_M.Sc.pdf
+│   │   │       ├── Studienfuehrer_Kommunikations_u_Medienwissenschaft_M.A.pdf
+│   │   │       ├── Studienfuehrer_Kommunikation_u_Medienwissenschaft_B._A.pdf
+│   │   │       ├── Studienfuehrer_Kulturwissenschaften_B.A.pdf
+│   │   │       ├── Studienfuehrer_Kulturwissenschaften_M.A.pdf
+│   │   │       ├── studienfuehrer_philosophie_b.a.pdf
+│   │   │       ├── Studienfuehrer_Philosophie_M.A.pdf
+│   │   │       ├── Studienfuehrer_Politikwissenschaft_B.A.pdf
+│   │   │       ├── Studienfuehrer_Politikwissenschaft_M.A.pdf
+│   │   │       ├── Studienfuehrer_Soziologie_B.A.pdf
+│   │   │       └── Studienfuehrer_Soziologie_M.A.pdf
+│   │   └── ul
+│   │       └── Dokumente
+│   │           ├── 180430_Teilzeitstudium_Fakultaetsubergreifende-Ordnung_.pdf
+│   │           ├── 230131_SI_ErasmusPlus-_Anerkennungsergebnisse_DE.pdf
+│   │           ├── WF_30LP_Crossmedia-Journalismus.pdf
+│   │           ├── WF_30LP_Ethik.pdf
+│   │           ├── WF_30LP_KMW.pdf
+│   │           ├── WF_30LP_Philosophie.pdf
+│   │           ├── WF_30LP_Soziologie.pdf
+│   │           ├── WF_60LP_Kulturwissenschaften.pdf
+│   │           ├── WF_60LP_Philosophie.pdf
+│   │           └── WF_60LP_Politikwissenschaft.pdf
+│   └── robots.txt
+└── www.zls.uni-leipzig.de
+    ├── fileadmin
+    │   └── Einrichtung_ZLS
+    │       └── Studium
+    │           └── Hinweise_fu__r_Wissenschaftliche_Arbeiten_Staatspruefung_Stand_04.2017.pdf
+    └── robots.txt
+
+219 directories, 1319 files
