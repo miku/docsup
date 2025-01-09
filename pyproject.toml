@@ -1,0 +1,13 @@
+[project]
+name = "docsup"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chromadb>=0.6.2",
+    "langchain>=0.3.14",
+    "pypdf>=5.1.0",
+    "pytest>=8.3.4",
+    "warcio>=1.7.5",
+]
