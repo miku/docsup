@@ -1,0 +1,18 @@
+[Unit]
+Description=Heritrix web crawler
+After=network.target
+
+[Service]
+Type=forking
+User=tir
+Group=tir
+Environment=JAVA_OPTS="-Xms4G -Xmx4G"
+WorkingDirectory=/home/tir/opt/heritrix-3.4.0-20220727
+ExecStart=/home/tir/opt/heritrix-3.4.0-20220727/bin/heritrix -a admin:admin -p 14000
+PIDFile=/home/tir/opt/heritrix-3.4.0-20220727/heritrix.pid
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
+
