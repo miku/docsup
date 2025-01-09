@@ -1,2 +1,4 @@
 # docsup
-Misc prototypes.
+
+Prototype: document corpus interaction.
+
