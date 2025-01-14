@@ -17,13 +17,14 @@ if __name__ == "__main__":
     parser.add_argument("--dir", "-d", required=True, metavar="DIR", type=str, help="directory with PDF files to convert")
     args = parser.parse_args()
 
-    doc_converter = DocumentConverter()
     dir = args.dir.rstrip("/")
     pdfs = glob.glob(dir + "/*.pdf")
 
     print(f"[..] found {len(pdfs)} files", file=sys.stderr)
+    print("[..] setup DocumentConverter", file=sys.stderr)
+    doc_converter = DocumentConverter()
 
-    for path in pdfs:
+    for i, path in enumerate(pdfs):
         dst = path.replace(".pdf", ".md")
         tmp = dst + ".tmp"
         if os.path.exists(dst):
@@ -37,8 +38,8 @@ if __name__ == "__main__":
         if result.status != ConversionStatus.SUCCESS:
             print("conversion failed for {} with {}".format(path, result.status), file=sys.stderr)
             continue
-        with open(tmp, "w") as f:
+        with open(tmp, "w", encoding="utf-8") as f:
             f.write(result.document.export_to_markdown())
         os.rename(tmp, dst)
-        print("done: {}".format(dst), file=sys.stderr)
+        print("[..] {} -- done: {}".format(i, dst), file=sys.stderr)
 
