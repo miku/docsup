@@ -11,10 +11,18 @@ import docling
 import glob
 import os
 import sys
+import tqdm
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--dir", "-d", required=True, metavar="DIR", type=str, help="directory with PDF files to convert")
+    parser.add_argument(
+        "--dir",
+        "-d",
+        required=True,
+        metavar="DIR",
+        type=str,
+        help="directory with PDF files to convert",
+    )
     args = parser.parse_args()
 
     dir = args.dir.rstrip("/")
@@ -24,7 +32,7 @@ if __name__ == "__main__":
     print("[..] setup DocumentConverter", file=sys.stderr)
     doc_converter = DocumentConverter()
 
-    for i, path in enumerate(pdfs):
+    for path in tqdm.tqdm(pdfs):
         dst = path.replace(".pdf", ".md")
         tmp = dst + ".tmp"
         if os.path.exists(dst):
@@ -36,10 +44,12 @@ if __name__ == "__main__":
             print("conversion failed for {} with {}".format(path, exc), file=sys.stderr)
             continue
         if result.status != ConversionStatus.SUCCESS:
-            print("conversion failed for {} with {}".format(path, result.status), file=sys.stderr)
+            print(
+                "conversion failed for {} with {}".format(path, result.status),
+                file=sys.stderr,
+            )
             continue
         with open(tmp, "w", encoding="utf-8") as f:
             f.write(result.document.export_to_markdown())
         os.rename(tmp, dst)
         print("[..] {} -- done: {}".format(i, dst), file=sys.stderr)
-

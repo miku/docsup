@@ -510,6 +510,7 @@ dependencies = [
     { name = "langchain" },
     { name = "pypdf" },
     { name = "pytest" },
+    { name = "tqdm" },
     { name = "warcio" },
 ]
 
@@ -521,6 +522,7 @@ requires-dist = [
     { name = "langchain", specifier = ">=0.3.14" },
     { name = "pypdf", specifier = ">=5.1.0" },
     { name = "pytest", specifier = ">=8.3.4" },
+    { name = "tqdm", specifier = ">=4.67.1" },
     { name = "warcio", specifier = ">=1.7.5" },
 ]
 
