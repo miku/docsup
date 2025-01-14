@@ -4,6 +4,7 @@
 Convert PDF files to markdown with docling, in a best effort way.
 """
 
+import argparse
 from docling.datamodel.base_models import ConversionStatus
 from docling.document_converter import DocumentConverter
 import docling
@@ -11,12 +12,16 @@ import glob
 import os
 import sys
 
-DIR = "/tmp/tmp.BtyOeuTyF1"
-
-
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--dir", "-d", required=True, metavar="DIR", type=str, help="directory with PDF files to convert")
+    args = parser.parse_args()
+
     doc_converter = DocumentConverter()
-    for path in glob.glob(DIR + "/*.pdf"):
+    dir = args.dir.rstrip("/")
+    pdfs = glob.glob(dir + "/*.pdf")
+
+    for path in glob.glob(pdfs):
         dst = path.replace(".pdf", ".md")
         tmp = dst + ".tmp"
         if os.path.exists(dst):
