@@ -21,7 +21,7 @@ if __name__ == "__main__":
     dir = args.dir.rstrip("/")
     pdfs = glob.glob(dir + "/*.pdf")
 
-    files = glob.glob(pdfs)
+    files = tuple(glob.glob(pdfs))
     print(f"[..] found {len(files)} files", file=sys.stderr)
 
     for path in files:
