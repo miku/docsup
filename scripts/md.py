@@ -21,8 +21,8 @@ if __name__ == "__main__":
     dir = args.dir.rstrip("/")
     pdfs = glob.glob(dir + "/*.pdf")
 
-    files = glob.glog(pdfs)
-    print("[..] found {len(files)} files", file=sys.stderr)
+    files = glob.glob(pdfs)
+    print(f"[..] found {len(files)} files", file=sys.stderr)
 
     for path in files:
         dst = path.replace(".pdf", ".md")
