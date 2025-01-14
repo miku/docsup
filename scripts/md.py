@@ -2,6 +2,10 @@
 
 """
 Convert PDF files to markdown with docling, in a best effort way.
+
+TORCH_CUDA_ARCH_LIST=8.9
+
+https://stackoverflow.com/questions/68496906/pytorch-installation-for-different-cuda-architectures
 """
 
 import argparse
@@ -28,8 +32,8 @@ if __name__ == "__main__":
     dir = args.dir.rstrip("/")
     pdfs = glob.glob(dir + "/*.pdf")
 
-    print(f"[..] found {len(pdfs)} files", file=sys.stderr)
-    print("[..] setup DocumentConverter", file=sys.stderr)
+    print(f"[...] found {len(pdfs)} files", file=sys.stderr)
+    print("[...] setup DocumentConverter", file=sys.stderr)
     doc_converter = DocumentConverter()
 
     for path in tqdm.tqdm(pdfs):
@@ -52,4 +56,4 @@ if __name__ == "__main__":
         with open(tmp, "w", encoding="utf-8") as f:
             f.write(result.document.export_to_markdown())
         os.rename(tmp, dst)
-        print("[..] {} -- done: {}".format(i, dst), file=sys.stderr)
+        print("[...] done: {}".format(dst), file=sys.stderr)
